@@ -1,0 +1,12 @@
+Layer: oceanBay (34)
+Fields:
+  COUNTY ( type: esriFieldTypeString , alias: COUNTY , length: 5 )
+  CFCC ( type: esriFieldTypeString , alias: CFCC , length: 3 )
+  LANDNAME ( type: esriFieldTypeString , alias: LANDNAME , length: 30 )
+  LANDPOLY ( type: esriFieldTypeInteger , alias: LANDPOLY )
+  GAVPRIMARYKEY ( type: esriFieldTypeInteger , alias: GAVPRIMARYKEY )
+  GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+  ID1 ( type: esriFieldTypeInteger , alias: ID1 )
+  OBJECTID ( type: esriFieldTypeOID , alias: OBJECTID )
+  GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+  GEOMETRY_Area ( type: esriFieldTypeDouble , alias: GEOMETRY_Area )

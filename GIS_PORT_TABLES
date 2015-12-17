@@ -1,0 +1,507 @@
+GISPORTAL/GIS_PORT_TABLES
+http://maps.smcgov.org/arcgis/rest/services/GISPORTAL/GIS_PORT_TABLES/MapServer?f=pjson
+
+ArcGIS REST Services Directory 	Login | Get Token
+Home > services > GISPORTAL > GIS_PORT_TABLES (MapServer) > All Layers and Tables 	Help | API Reference
+JSON
+All Layers and Tables (GISPORTAL/GIS_PORT_TABLES)
+Layers:
+
+    Layer: ASSESSMENT DISTRICT MAPS SCHEMA (0)
+    Name: ASSESSMENT DISTRICT MAPS SCHEMA
+
+    Display Field: FILENAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolygon
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -2.0037507842788246E7
+        YMin: -3.024097145838617E7
+        XMax: 2.0037507842788246E7
+        YMax: 3.0240971458386205E7
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSFSSolid
+                Color: [0, 0, 0, 0]
+                Outline:
+                    Style: esriSLSSolid
+                    Color: [0, 0, 0, 0]
+                    Width: 0 Label:
+            Description: Transparency: 0
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        OBJECTID ( type: esriFieldTypeOID , alias: OBJECTID )
+        SHAPE ( type: esriFieldTypeGeometry , alias: SHAPE )
+        FILENAME ( type: esriFieldTypeString , alias: FILENAME , length: 255 )
+        VOLUME ( type: esriFieldTypeString , alias: VOLUME , length: 3 )
+        PAGE ( type: esriFieldTypeString , alias: PAGE , length: 3 )
+        FOLDER ( type: esriFieldTypeString , alias: FOLDER , length: 9 )
+        FILEPATH ( type: esriFieldTypeString , alias: FILEPATH , length: 289 )
+        SHAPE_Length ( type: esriFieldTypeDouble , alias: SHAPE_Length )
+        SHAPE_Area ( type: esriFieldTypeDouble , alias: SHAPE_Area )
+
+    Layer: ENGINEERING DRAWINGS SCHEMA (1)
+    Name: ENGINEERING DRAWINGS SCHEMA
+
+    Display Field: FILENAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolygon
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -2.0037507842788246E7
+        YMin: -3.024097145838617E7
+        XMax: 2.0037507842788246E7
+        YMax: 3.0240971458386205E7
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSFSSolid
+                Color: [0, 0, 0, 0]
+                Outline:
+                    Style: esriSLSSolid
+                    Color: [0, 0, 0, 0]
+                    Width: 0 Label:
+            Description: Transparency: 0
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        OBJECTID ( type: esriFieldTypeOID , alias: OBJECTID )
+        SHAPE ( type: esriFieldTypeGeometry , alias: SHAPE )
+        GEOMEDIA_ID ( type: esriFieldTypeInteger , alias: GEOMEDIA_ID )
+        FILENAME ( type: esriFieldTypeString , alias: FILENAME , length: 100 )
+        DRAWING_GROUP ( type: esriFieldTypeString , alias: DRAWING_GROUP , length: 100 )
+        DRAWING_NUMBER ( type: esriFieldTypeString , alias: DRAWING_NUMBER , length: 100 )
+        PAGE ( type: esriFieldTypeString , alias: PAGE , length: 3 )
+        FOLDER ( type: esriFieldTypeString , alias: FOLDER , length: 3 )
+        FILEPATH ( type: esriFieldTypeString , alias: FILEPATH , length: 145 )
+        DRAWING_GROUP_TITLE ( type: esriFieldTypeString , alias: DRAWING_GROUP_TITLE , length: 500 )
+        SHAPE_Length ( type: esriFieldTypeDouble , alias: SHAPE_Length )
+        SHAPE_Area ( type: esriFieldTypeDouble , alias: SHAPE_Area )
+
+Tables:
+
+    Table: ASSESSMENT DISTRICT MAPS - RASTER TABLE (2)
+    Name: ASSESSMENT DISTRICT MAPS - RASTER TABLE
+
+    Display Field: FILENAME
+
+    Type: Table
+
+    Geometry Type: N/A
+
+    Description: null
+
+    Definition Expression: N/A
+
+    Copyright Text: N/A
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Use Standardized Queries: true
+
+    Extent:
+
+    Drawing Info:
+        N/A 
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeNone
+
+    Type ID Field: null
+
+    Fields:
+        FILENAME ( type: esriFieldTypeString , alias: FILENAME , length: 255 )
+        VOLUME ( type: esriFieldTypeString , alias: VOLUME , length: 3 )
+        PAGE ( type: esriFieldTypeString , alias: PAGE , length: 3 )
+        FOLDER ( type: esriFieldTypeString , alias: FOLDER , length: 9 )
+        FILEPATH ( type: esriFieldTypeString , alias: FILEPATH , length: 289 )
+
+    Table: ENGINEERING DRAWINGS - RASTER TABLE (3)
+    Name: ENGINEERING DRAWINGS - RASTER TABLE
+
+    Display Field: FILENAME
+
+    Type: Table
+
+    Geometry Type: N/A
+
+    Description: null
+
+    Definition Expression: N/A
+
+    Copyright Text: N/A
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Use Standardized Queries: true
+
+    Extent:
+
+    Drawing Info:
+        N/A 
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeNone
+
+    Type ID Field: null
+
+    Fields:
+        GEOMEDIA_ID ( type: esriFieldTypeInteger , alias: GEOMEDIA_ID )
+        FILENAME ( type: esriFieldTypeString , alias: FILENAME , length: 100 )
+        DRAWING_GROUP ( type: esriFieldTypeString , alias: DRAWING_GROUP , length: 100 )
+        DRAWING_NUMBER ( type: esriFieldTypeString , alias: DRAWING_NUMBER , length: 100 )
+        PAGE ( type: esriFieldTypeString , alias: PAGE , length: 3 )
+        FOLDER ( type: esriFieldTypeString , alias: FOLDER , length: 3 )
+        FILEPATH ( type: esriFieldTypeString , alias: FILEPATH , length: 145 )
+        DRAWING_GROUP_TITLE ( type: esriFieldTypeString , alias: DRAWING_GROUP_TITLE , length: 500 )
+
+    Table: TAX ASSESSMENT - TRA (4)
+    Name: TAX ASSESSMENT - TRA
+
+    Display Field: APN
+
+    Type: Table
+
+    Geometry Type: N/A
+
+    Description: null
+
+    Definition Expression: N/A
+
+    Copyright Text: N/A
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Use Standardized Queries: true
+
+    Extent:
+
+    Drawing Info:
+        N/A 
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeNone
+
+    Type ID Field: null
+
+    Fields:
+        APN ( type: esriFieldTypeString , alias: APN , length: 9 )
+        LEGAL_DESC ( type: esriFieldTypeString , alias: LEGAL_DESC , length: 55 )
+        TAXACCT ( type: esriFieldTypeString , alias: TAXACCT , length: 5 )
+        TAXACCTDE ( type: esriFieldTypeString , alias: TAXACCTDE , length: 40 )
+        TRA ( type: esriFieldTypeString , alias: TRA , length: 6 )
+        PROPERTYCODE ( type: esriFieldTypeString , alias: PROPERTYCODE , length: 255 )
+        PROPERTYCODEDESCRIPTION ( type: esriFieldTypeString , alias: PROPERTYCODEDESCRIPTION , length: 255 )
+        SEQ ( type: esriFieldTypeSmallInteger , alias: SEQ )
+        TAXYEAR ( type: esriFieldTypeSmallInteger , alias: TAXYEAR )
+        RCNET ( type: esriFieldTypeDouble , alias: RCNET )
+        ASSESSTYPE ( type: esriFieldTypeString , alias: ASSESSTYPE , length: 20 )
+        DISTRICT ( type: esriFieldTypeString , alias: DISTRICT , length: 10 )
+        NEIGHBORHOOD ( type: esriFieldTypeString , alias: NEIGHBORHOOD , length: 10 )
+
+    Table: TAX ASSESSMENT - ROLL (5)
+    Name: TAX ASSESSMENT - ROLL
+
+    Display Field: APN
+
+    Type: Table
+
+    Geometry Type: N/A
+
+    Description: null
+
+    Definition Expression: N/A
+
+    Copyright Text: N/A
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Use Standardized Queries: true
+
+    Extent:
+
+    Drawing Info:
+        N/A 
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeNone
+
+    Type ID Field: null
+
+    Fields:
+        APN ( type: esriFieldTypeString , alias: APN , length: 9 )
+        TAXYEAR ( type: esriFieldTypeSmallInteger , alias: TAXYEAR )
+        SEQ ( type: esriFieldTypeSmallInteger , alias: SEQ )
+        OWNER1 ( type: esriFieldTypeString , alias: OWNER1 , length: 40 )
+        OWNER2 ( type: esriFieldTypeString , alias: OWNER2 , length: 40 )
+        CARE_OF ( type: esriFieldTypeString , alias: CARE_OF , length: 40 )
+        OWNER_ADDR_LN1 ( type: esriFieldTypeString , alias: OWNER_ADDR_LN1 , length: 60 )
+        OWNER_ADDR_LN2 ( type: esriFieldTypeString , alias: OWNER_ADDR_LN2 , length: 60 )
+        OWNER_ADDR_LN3 ( type: esriFieldTypeString , alias: OWNER_ADDR_LN3 , length: 60 )
+        OWNER_CITY ( type: esriFieldTypeString , alias: OWNER_CITY , length: 20 )
+        OWNER_STATE ( type: esriFieldTypeString , alias: OWNER_STATE , length: 2 )
+        OWNER_ZIP ( type: esriFieldTypeString , alias: OWNER_ZIP , length: 10 )
+        OWNER_COUNTRY ( type: esriFieldTypeString , alias: OWNER_COUNTRY , length: 4 )
+        DOCUMENT_NUMBER ( type: esriFieldTypeString , alias: DOCUMENT_NUMBER , length: 10 )
+        LAND ( type: esriFieldTypeString , alias: LAND , length: 13 )
+        TEMP_LAND ( type: esriFieldTypeString , alias: TEMP_LAND , length: 13 )
+        ROOT ( type: esriFieldTypeString , alias: ROOT , length: 13 )
+        MINERAL ( type: esriFieldTypeString , alias: MINERAL , length: 13 )
+        IMPROVEMENTS ( type: esriFieldTypeString , alias: IMPROVEMENTS , length: 13 )
+        TEMP_IMPROVEMENTS ( type: esriFieldTypeString , alias: TEMP_IMPROVEMENTS , length: 13 )
+        FIXTURES ( type: esriFieldTypeString , alias: FIXTURES , length: 13 )
+        TOTAL_GROSS ( type: esriFieldTypeString , alias: TOTAL_GROSS , length: 13 )
+        TOTAL_TEMP ( type: esriFieldTypeString , alias: TOTAL_TEMP , length: 13 )
+        EXEM_HOMEOWNER ( type: esriFieldTypeString , alias: EXEM_HOMEOWNER , length: 13 )
+        EXEMP_OTHER ( type: esriFieldTypeString , alias: EXEMP_OTHER , length: 13 )
+        NET_ASSESSED ( type: esriFieldTypeString , alias: NET_ASSESSED , length: 13 )
+        RCNET ( type: esriFieldTypeString , alias: RCNET , length: 13 )
+        ASSESSLBL ( type: esriFieldTypeString , alias: ASSESSLBL , length: 20 )
+        ASSESSMENT_TYPE ( type: esriFieldTypeString , alias: ASSESSMENT_TYPE , length: 20 )
+        TEMP_CODE ( type: esriFieldTypeString , alias: TEMP_CODE , length: 10 )
+        NOTICE_DATE ( type: esriFieldTypeInteger , alias: NOTICE_DATE )
+        CHANGENUM ( type: esriFieldTypeString , alias: CHANGENUM , length: 10 )
+        TRA ( type: esriFieldTypeString , alias: TRA , length: 6 )
+        PUC ( type: esriFieldTypeString , alias: PUC , length: 2 )
+        PUC_DESC ( type: esriFieldTypeString , alias: PUC_DESC , length: 255 )
+
+    Table: TAX ASSESSMENT - PROPERTY USE DETAILS (6)
+    Name: TAX ASSESSMENT - PROPERTY USE DETAILS
+
+    Display Field: APN
+
+    Type: Table
+
+    Geometry Type: N/A
+
+    Description: null
+
+    Definition Expression: N/A
+
+    Copyright Text: N/A
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Use Standardized Queries: true
+
+    Extent:
+
+    Drawing Info:
+        N/A 
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeNone
+
+    Type ID Field: null
+
+    Fields:
+        APN ( type: esriFieldTypeString , alias: APN , length: 9 )
+        YEARBUILT ( type: esriFieldTypeInteger , alias: YEARBUILT )
+        BASEAREA ( type: esriFieldTypeInteger , alias: BASEAREA )
+        TOTALROOMS ( type: esriFieldTypeInteger , alias: TOTALROOMS )
+        LANDAREA ( type: esriFieldTypeInteger , alias: LANDAREA )
+        BATHROOMS ( type: esriFieldTypeDouble , alias: BATHROOMS )
+        BEDROOMS ( type: esriFieldTypeInteger , alias: BEDROOMS )
+
+    Table: GIS_ADMIN.SITUS_AREA (7)
+    Name: GIS_ADMIN.SITUS_AREA
+
+    Display Field: APN
+
+    Type: Table
+
+    Geometry Type: N/A
+
+    Description: null
+
+    Definition Expression: N/A
+
+    Copyright Text: N/A
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Use Standardized Queries: true
+
+    Extent:
+
+    Drawing Info:
+        N/A 
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeNone
+
+    Type ID Field: null
+
+    Fields:
+        APN ( type: esriFieldTypeString , alias: APN , length: 9 )
+        SITUS_ADDR ( type: esriFieldTypeString , alias: SITUS_ADDR , length: 80 )
+        PUC ( type: esriFieldTypeString , alias: PUC , length: 2 )
+        PUCDESC ( type: esriFieldTypeString , alias: PUCDESC , length: 40 )
+        CHARLINK ( type: esriFieldTypeString , alias: CHARLINK , length: 10 )
+        CHARTABLE ( type: esriFieldTypeString , alias: CHARTABLE , length: 10 )
+
+
+
+

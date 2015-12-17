@@ -1,0 +1,86 @@
+GISPORTAL > IMAGERY_LABELS (MapServer)
+http://maps.smcgov.org/arcgis/rest/services/GISPORTAL/IMAGERY_LABELS/MapServer
+
+
+ArcGIS REST Services Directory 	Login | Get Token
+Home > services > GISPORTAL > IMAGERY_LABELS (MapServer) 	Help | API Reference
+JSON | SOAP
+GISPORTAL/IMAGERY_LABELS (MapServer)
+View In:   ArcGIS JavaScript   ArcGIS.com Map   Google Earth   ArcMap   ArcGIS Explorer
+
+View Footprint In:   ArcGIS.com Map
+
+Service Description: These street name and parcel apn labels display over imagery and are visible when basemaps our turned off.
+
+Map Name: Layers
+
+Legend
+
+All Layers and Tables
+
+Layers:
+
+    STREET NAME (0)
+
+Description:
+
+Copyright Text: County of San Mateo
+
+Spatial Reference: PROJCS["NAD_1983_StatePlane_California_III_FIPS_0403_Feet",GEOGCS["GCS_North_American_1983",DATUM["D_North_American_1983",SPHEROID["GRS_1980",6378137.0,298.257222101]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Lambert_Conformal_Conic"],PARAMETER["False_Easting",6561679.790026247],PARAMETER["False_Northing",1640419.947506562],PARAMETER["Central_Meridian",-120.5],PARAMETER["Standard_Parallel_1",37.06666666666667],PARAMETER["Standard_Parallel_2",38.43333333333333],PARAMETER["Latitude_Of_Origin",36.5],UNIT["Foot",0.3048]]
+
+
+Single Fused Map Cache: false
+
+Initial Extent:
+
+    XMin: 5740326.6521978015
+    YMin: 1492511.243186813
+    XMax: 6480538.657032966
+    YMax: 2007490.5431868124
+    Spatial Reference: PROJCS["NAD_1983_StatePlane_California_III_FIPS_0403_Feet",GEOGCS["GCS_North_American_1983",DATUM["D_North_American_1983",SPHEROID["GRS_1980",6378137.0,298.257222101]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Lambert_Conformal_Conic"],PARAMETER["False_Easting",6561679.790026247],PARAMETER["False_Northing",1640419.947506562],PARAMETER["Central_Meridian",-120.5],PARAMETER["Standard_Parallel_1",37.06666666666667],PARAMETER["Standard_Parallel_2",38.43333333333333],PARAMETER["Latitude_Of_Origin",36.5],UNIT["Foot",0.3048]]
+
+Full Extent:
+
+    XMin: 5907743
+    YMin: 1716252
+    XMax: 6257663
+    YMax: 2184415
+    Spatial Reference: PROJCS["NAD_1983_StatePlane_California_III_FIPS_0403_Feet",GEOGCS["GCS_North_American_1983",DATUM["D_North_American_1983",SPHEROID["GRS_1980",6378137.0,298.257222101]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Lambert_Conformal_Conic"],PARAMETER["False_Easting",6561679.790026247],PARAMETER["False_Northing",1640419.947506562],PARAMETER["Central_Meridian",-120.5],PARAMETER["Standard_Parallel_1",37.06666666666667],PARAMETER["Standard_Parallel_2",38.43333333333333],PARAMETER["Latitude_Of_Origin",36.5],UNIT["Foot",0.3048]]
+
+Units: esriFeet
+
+Supported Image Format Types: PNG32,PNG24,PNG,JPG,DIB,TIFF,EMF,PS,PDF,GIF,SVG,SVGZ,BMP
+
+Document Info:
+
+    Title:
+    Author:
+    Comments: These street labels display over imagery and are visible when basemaps our turned off.
+    Subject: Street Labels for Imagery
+    Category:
+    Keywords: PIP,Property Information Portal
+    AntialiasingMode: None
+    TextAntialiasingMode: Force
+
+Supports Dynamic Layers: false
+
+MaxRecordCount: 1000
+
+MaxImageHeight: 4096
+
+MaxImageWidth: 4096
+
+Supported Query Formats: JSON, AMF
+
+Min Scale: 18055.954822
+
+Max Scale: 0
+
+
+
+Child Resources:   Info
+
+Supported Operations:   Export Map   Identify   Find   Return Updates
+
+
+

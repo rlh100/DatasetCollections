@@ -1,0 +1,87 @@
+GISPORTAL/OVERVIEW_MAP (MapServer)
+http://maps.smcgov.org/arcgis/rest/services/GISPORTAL/OVERVIEW_MAP/MapServer
+
+The GISPORTAL/OVERVIEW_MAP has 51 layers available on the map.  Most fall into one of 7 significant schema types:
+  per-addr.schema
+  location.feature.schema:
+  location.geo.schema:
+  location.shape.schema:
+  office.geo.schema:
+  office.schema:
+  city.schema:
+  hospital.schema:
+
+I have given the schemas names I made up based on something I saw in the schema.  If there are better or proper names, please tell me.
+
+Because there is no index information I do not know what is in any of these datasets.  My experiments at trying to use the API were not successful.
+
+Would it be possible to get a short 5-10 word description of each of the layer?  Layer entries end with (num).
+
+per-addr.schema
+  hwy_101 (32)
+  hwy_1 (28)
+  hwy_2800 (31)
+  hwy_35 (25)
+  hwy_380 (30)
+  HWY_84_CARTO (26)
+  hwy_92 (27)
+  streets72224 (39)
+  MAJOR_ROADS_CARTO (21)
+  SECONDARY_ROADS_CARTO (33)
+  SECOND_SHADOW (35)
+  stLabels18056 (41)
+  stLabels2257 (43)
+  stLabels36112 (40)
+  stLabels9028 (42)
+  streets72224 (39)
+  STREETS2 (11)
+  STREETS (20)
+
+location.feature.schema:
+  Airport (19)
+  Layer: Cemetery (17)
+  Layer: Church (18)
+  Layer: Post_Office (14)
+  Layer: Tower (12)
+location.geo.schema:
+  parks2 (50)
+  schools36112 (45)
+location.shape.schema:
+  Export_Output_83 (23)
+   newCityHall (22)
+   newParks (48)
+
+office.geo.schema:
+  Export_Output_69 (6)
+: Export_Output_70 (3)
+: Export_Output_71 (4)
+: Export_Output_72 (9)
+: Export_Output_73 (8)
+: Export_Output_74 (5)
+: Export_Output_75 (7)
+office.schema:
+  DPW (1)
+: Export_Output_84 (0)
+: lawStuff (2)
+: LIBRARIES (10)
+
+city.schema:
+citiBig (37)
+: citiBKGRND (51)
+: cities361122 (44)
+: CITY (24)
+
+hospital.schema:
+: CA_Healthcare_Facility (15)
+
+rowlin.schema:
+  Export_Output_78 (47)
+usgs.schema:
+  streams (36)
+apn.schema:
+  APN_countyFeet (46)
+cfcc.schema:
+  oceanBay (34)
+ldmk.schema:
+  FIRE_STATIONS (16)
+

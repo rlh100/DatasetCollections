@@ -1,0 +1,35 @@
+hwy_101.diff
+> Layer: hwy_101 (32)
+hwy_1.diff
+> Layer: hwy_1 (28)
+hwy_2800.diff
+> Layer: hwy_2800 (31)
+hwy_35.diff
+> Layer: hwy_35 (25)
+hwy_380.diff
+> Layer: hwy_380 (30)
+HWY_84_CARTO.diff
+> Layer: HWY_84_CARTO (26)
+hwy_92.diff
+> Layer: hwy_92 (27)
+I{i}.diff
+> Layer: streets72224 (39)
+<   OBJECTID ( type: esriFieldTypeOID , alias: OBJECTID )
+MAJOR_ROADS_CARTO.diff
+> Layer: MAJOR_ROADS_CARTO (21)
+SECONDARY_ROADS_CARTO.diff
+> Layer: SECONDARY_ROADS_CARTO (33)
+SECOND_SHADOW.diff
+> Layer: SECOND_SHADOW (35)
+stLabels18056.diff
+> Layer: stLabels18056 (41)
+stLabels2257.diff
+> Layer: stLabels2257 (43)
+stLabels36112.diff
+> Layer: stLabels36112 (40)
+stLabels9028.diff
+> Layer: stLabels9028 (42)
+>   OBJECTID ( type: esriFieldTypeOID , alias: OBJECTID )
+streets72224.diff
+> Layer: streets72224 (39)
+>   OBJECTID ( type: esriFieldTypeOID , alias: OBJECTID )

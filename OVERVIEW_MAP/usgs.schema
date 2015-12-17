@@ -1,0 +1,13 @@
+Layer: streams (36)
+
+Fields:
+  NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+  ROUTE_ID ( type: esriFieldTypeString , alias: ROUTE_ID , length: 50 )
+  LOW_MEASURE ( type: esriFieldTypeDouble , alias: LOW_MEASURE )
+  HI_MEASURE ( type: esriFieldTypeDouble , alias: HI_MEASURE )
+  USGS_BLUELINE ( type: esriFieldTypeSmallInteger , alias: USGS_BLUELINE )
+  GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+  ID ( type: esriFieldTypeOID , alias: ID )
+  LRS_ORDER_ID ( type: esriFieldTypeDouble , alias: LRS_ORDER_ID )
+  LRS_REVERSE ( type: esriFieldTypeDouble , alias: LRS_REVERSE )
+  GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )

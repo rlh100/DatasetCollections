@@ -1,0 +1,5423 @@
+GISPORTAL/OVERVIEW_MAP (MapServer)
+http://maps.smcgov.org/arcgis/rest/services/GISPORTAL/OVERVIEW_MAP/MapServer
+
+ArcGIS REST Services Directory 	Login | Get Token
+Home > services > GISPORTAL > OVERVIEW_MAP (MapServer) > All Layers and Tables 	Help | API Reference
+JSON
+All Layers and Tables (GISPORTAL/OVERVIEW_MAP)
+Layers:
+
+    Layer: Export_Output_84 (0)
+    Name: Export_Output_84
+
+    Display Field: SERVICE_PR
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPoint
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 18060
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3635930679909486E7
+        YMin: 4474673.208737333
+        XMax: -1.3595533437860496E7
+        YMax: 4538051.782731787
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+            Label:
+            Description: Transparency: 15
+        Labeling Info:
+            Label Placement: esriServerPointLabelPlacementAboveRight
+            Label Expression: [SERVICE_PR]
+            Use Coded Values: true
+            Symbol:
+                Color: [130, 130, 130, 255]
+                Background Color: N/A
+                Outline Color: N/A
+                Vertical Alignment: baseline
+                Horizontal Alignment: left
+                Right to Left: false
+                Angle: 0
+                XOffset: 0
+                YOffset: 0
+                Size: 8
+                Font Family: Arial
+                Font Style: italic
+                Font Weight: normal
+                Font Decoration: none
+            Min. Scale: 18060.0
+            Max. Scale: 0.0
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        OBJECTID ( type: esriFieldTypeOID , alias: OBJECTID )
+        Shape ( type: esriFieldTypeGeometry , alias: Shape )
+        SERVICE_PR ( type: esriFieldTypeString , alias: SERVICE_PR , length: 254 )
+        AGENCY_TYP ( type: esriFieldTypeString , alias: AGENCY_TYP , length: 254 )
+        PARENT_AGE ( type: esriFieldTypeString , alias: PARENT_AGE , length: 254 )
+        COMMENTS ( type: esriFieldTypeString , alias: COMMENTS , length: 254 )
+        CONTACT_PH ( type: esriFieldTypeString , alias: CONTACT_PH , length: 254 )
+        ADDRESS ( type: esriFieldTypeString , alias: ADDRESS , length: 254 )
+        CITY ( type: esriFieldTypeString , alias: CITY , length: 254 )
+        STATE ( type: esriFieldTypeString , alias: STATE , length: 254 )
+        ZIPCODE ( type: esriFieldTypeDouble , alias: ZIPCODE )
+        WEBSITE ( type: esriFieldTypeString , alias: WEBSITE , length: 254 )
+
+    Layer: DPW (1)
+    Name: DPW
+
+    Display Field: SERVICE_PR
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPoint
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 18060
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3606574583736068E7
+        YMin: 4506777.851708237
+        XMax: -1.3605410933168193E7
+        YMax: 4507495.178498598
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+            Label:
+            Description: Transparency: 15
+        Labeling Info:
+            Label Placement: esriServerPointLabelPlacementAboveRight
+            Label Expression: [SERVICE_PR]
+            Use Coded Values: true
+            Symbol:
+                Color: [130, 130, 130, 255]
+                Background Color: N/A
+                Outline Color: N/A
+                Vertical Alignment: baseline
+                Horizontal Alignment: left
+                Right to Left: false
+                Angle: 0
+                XOffset: 0
+                YOffset: 0
+                Size: 8
+                Font Family: Arial
+                Font Style: italic
+                Font Weight: normal
+                Font Decoration: none
+            Min. Scale: 18060.0
+            Max. Scale: 0.0
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        OBJECTID ( type: esriFieldTypeOID , alias: OBJECTID )
+        Shape ( type: esriFieldTypeGeometry , alias: Shape )
+        SERVICE_PR ( type: esriFieldTypeString , alias: SERVICE_PR , length: 254 )
+        AGENCY_TYP ( type: esriFieldTypeString , alias: AGENCY_TYP , length: 254 )
+        PARENT_AGE ( type: esriFieldTypeString , alias: PARENT_AGE , length: 254 )
+        COMMENTS ( type: esriFieldTypeString , alias: COMMENTS , length: 254 )
+        CONTACT_PH ( type: esriFieldTypeString , alias: CONTACT_PH , length: 254 )
+        ADDRESS ( type: esriFieldTypeString , alias: ADDRESS , length: 254 )
+        CITY ( type: esriFieldTypeString , alias: CITY , length: 254 )
+        STATE ( type: esriFieldTypeString , alias: STATE , length: 254 )
+        ZIPCODE ( type: esriFieldTypeDouble , alias: ZIPCODE )
+        WEBSITE ( type: esriFieldTypeString , alias: WEBSITE , length: 254 )
+
+    Layer: lawStuff (2)
+    Name: lawStuff
+
+    Display Field: SERVICE_PR
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPoint
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 18060
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.362944431961189E7
+        YMin: 4506938.940419399
+        XMax: -1.3606657811160589E7
+        YMax: 4531818.892229784
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+            Label:
+            Description: Transparency: 0
+        Labeling Info:
+            Label Placement: esriServerPointLabelPlacementAboveRight
+            Label Expression: [SERVICE_PR]
+            Use Coded Values: true
+            Symbol:
+                Color: [230, 152, 0, 255]
+                Background Color: N/A
+                Outline Color: N/A
+                Vertical Alignment: baseline
+                Horizontal Alignment: left
+                Right to Left: false
+                Angle: 0
+                XOffset: 0
+                YOffset: 0
+                Size: 8
+                Font Family: Arial
+                Font Style: italic
+                Font Weight: normal
+                Font Decoration: none
+            Min. Scale: 9030.0
+            Max. Scale: 0.0
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        OBJECTID ( type: esriFieldTypeOID , alias: OBJECTID )
+        Shape ( type: esriFieldTypeGeometry , alias: Shape )
+        SERVICE_PR ( type: esriFieldTypeString , alias: SERVICE_PR , length: 254 )
+        AGENCY_TYP ( type: esriFieldTypeString , alias: AGENCY_TYP , length: 254 )
+        PARENT_AGE ( type: esriFieldTypeString , alias: PARENT_AGE , length: 254 )
+        COMMENTS ( type: esriFieldTypeString , alias: COMMENTS , length: 254 )
+        CONTACT_PH ( type: esriFieldTypeString , alias: CONTACT_PH , length: 254 )
+        ADDRESS ( type: esriFieldTypeString , alias: ADDRESS , length: 254 )
+        CITY ( type: esriFieldTypeString , alias: CITY , length: 254 )
+        STATE ( type: esriFieldTypeString , alias: STATE , length: 254 )
+        ZIPCODE ( type: esriFieldTypeDouble , alias: ZIPCODE )
+        WEBSITE ( type: esriFieldTypeString , alias: WEBSITE , length: 254 )
+
+    Layer: Export_Output_70 (3)
+    Name: Export_Output_70
+
+    Display Field: SERVICE_PROVIDER
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPoint
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3633487548793683E7
+        YMin: 4497029.735608666
+        XMax: -1.3603043776558464E7
+        YMax: 4537731.580845129
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+            Label:
+            Description: Transparency: 10
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        ID ( type: esriFieldTypeOID , alias: ID )
+        SERVICE_PROVIDER ( type: esriFieldTypeString , alias: SERVICE_PROVIDER , length: 254 )
+        AGENCY_TYPE ( type: esriFieldTypeString , alias: AGENCY_TYPE , length: 254 )
+        PARENT_AGENCY ( type: esriFieldTypeString , alias: PARENT_AGENCY , length: 254 )
+        COMMENTS ( type: esriFieldTypeString , alias: COMMENTS , length: 254 )
+        CONTACT_PHONE ( type: esriFieldTypeString , alias: CONTACT_PHONE , length: 254 )
+        ADDRESS ( type: esriFieldTypeString , alias: ADDRESS , length: 254 )
+        CITY ( type: esriFieldTypeString , alias: CITY , length: 254 )
+        STATE ( type: esriFieldTypeString , alias: STATE , length: 254 )
+        ZIPCODE ( type: esriFieldTypeDouble , alias: ZIPCODE )
+        WEBSITE ( type: esriFieldTypeString , alias: WEBSITE , length: 254 )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+
+    Layer: Export_Output_71 (4)
+    Name: Export_Output_71
+
+    Display Field: SERVICE_PROVIDER
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPoint
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3633487548793683E7
+        YMin: 4497029.735608666
+        XMax: -1.3604955072295511E7
+        YMax: 4537696.302122936
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+            Label:
+            Description: Transparency: 10
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        ID ( type: esriFieldTypeOID , alias: ID )
+        SERVICE_PROVIDER ( type: esriFieldTypeString , alias: SERVICE_PROVIDER , length: 254 )
+        AGENCY_TYPE ( type: esriFieldTypeString , alias: AGENCY_TYPE , length: 254 )
+        PARENT_AGENCY ( type: esriFieldTypeString , alias: PARENT_AGENCY , length: 254 )
+        COMMENTS ( type: esriFieldTypeString , alias: COMMENTS , length: 254 )
+        CONTACT_PHONE ( type: esriFieldTypeString , alias: CONTACT_PHONE , length: 254 )
+        ADDRESS ( type: esriFieldTypeString , alias: ADDRESS , length: 254 )
+        CITY ( type: esriFieldTypeString , alias: CITY , length: 254 )
+        STATE ( type: esriFieldTypeString , alias: STATE , length: 254 )
+        ZIPCODE ( type: esriFieldTypeDouble , alias: ZIPCODE )
+        WEBSITE ( type: esriFieldTypeString , alias: WEBSITE , length: 254 )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+
+    Layer: Export_Output_74 (5)
+    Name: Export_Output_74
+
+    Display Field: SERVICE_PROVIDER
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPoint
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.363569428924747E7
+        YMin: 4459481.855753028
+        XMax: -1.360427167535783E7
+        YMax: 4537696.302122936
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+            Label:
+            Description: Transparency: 10
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        ID ( type: esriFieldTypeOID , alias: ID )
+        SERVICE_PROVIDER ( type: esriFieldTypeString , alias: SERVICE_PROVIDER , length: 254 )
+        AGENCY_TYPE ( type: esriFieldTypeString , alias: AGENCY_TYPE , length: 254 )
+        PARENT_AGENCY ( type: esriFieldTypeString , alias: PARENT_AGENCY , length: 254 )
+        COMMENTS ( type: esriFieldTypeString , alias: COMMENTS , length: 254 )
+        CONTACT_PHONE ( type: esriFieldTypeString , alias: CONTACT_PHONE , length: 254 )
+        ADDRESS ( type: esriFieldTypeString , alias: ADDRESS , length: 254 )
+        CITY ( type: esriFieldTypeString , alias: CITY , length: 254 )
+        STATE ( type: esriFieldTypeString , alias: STATE , length: 254 )
+        ZIPCODE ( type: esriFieldTypeDouble , alias: ZIPCODE )
+        WEBSITE ( type: esriFieldTypeString , alias: WEBSITE , length: 254 )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+
+    Layer: Export_Output_69 (6)
+    Name: Export_Output_69
+
+    Display Field: SERVICE_PROVIDER
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPoint
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.363560977893226E7
+        YMin: 4506564.977671094
+        XMax: -1.360321701461824E7
+        YMax: 4536202.307573469
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+            Label:
+            Description: Transparency: 10
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        ID ( type: esriFieldTypeOID , alias: ID )
+        SERVICE_PROVIDER ( type: esriFieldTypeString , alias: SERVICE_PROVIDER , length: 254 )
+        AGENCY_TYPE ( type: esriFieldTypeString , alias: AGENCY_TYPE , length: 254 )
+        PARENT_AGENCY ( type: esriFieldTypeString , alias: PARENT_AGENCY , length: 254 )
+        COMMENTS ( type: esriFieldTypeString , alias: COMMENTS , length: 254 )
+        CONTACT_PHONE ( type: esriFieldTypeString , alias: CONTACT_PHONE , length: 254 )
+        ADDRESS ( type: esriFieldTypeString , alias: ADDRESS , length: 254 )
+        CITY ( type: esriFieldTypeString , alias: CITY , length: 254 )
+        STATE ( type: esriFieldTypeString , alias: STATE , length: 254 )
+        ZIPCODE ( type: esriFieldTypeDouble , alias: ZIPCODE )
+        WEBSITE ( type: esriFieldTypeString , alias: WEBSITE , length: 254 )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+
+    Layer: Export_Output_75 (7)
+    Name: Export_Output_75
+
+    Display Field: SERVICE_PROVIDER
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPoint
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3628619360586748E7
+        YMin: 4484598.737071354
+        XMax: -1.3593654377620872E7
+        YMax: 4524340.666446834
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+            Label:
+            Description: Transparency: 10
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        ID ( type: esriFieldTypeOID , alias: ID )
+        SERVICE_PROVIDER ( type: esriFieldTypeString , alias: SERVICE_PROVIDER , length: 254 )
+        AGENCY_TYPE ( type: esriFieldTypeString , alias: AGENCY_TYPE , length: 254 )
+        PARENT_AGENCY ( type: esriFieldTypeString , alias: PARENT_AGENCY , length: 254 )
+        COMMENTS ( type: esriFieldTypeString , alias: COMMENTS , length: 254 )
+        CONTACT_PHONE ( type: esriFieldTypeString , alias: CONTACT_PHONE , length: 254 )
+        ADDRESS ( type: esriFieldTypeString , alias: ADDRESS , length: 254 )
+        CITY ( type: esriFieldTypeString , alias: CITY , length: 254 )
+        STATE ( type: esriFieldTypeString , alias: STATE , length: 254 )
+        ZIPCODE ( type: esriFieldTypeDouble , alias: ZIPCODE )
+        WEBSITE ( type: esriFieldTypeString , alias: WEBSITE , length: 254 )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+
+    Layer: Export_Output_73 (8)
+    Name: Export_Output_73
+
+    Display Field: SERVICE_PROVIDER
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPoint
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.363584316128764E7
+        YMin: 4496980.003156158
+        XMax: -1.3604955072295511E7
+        YMax: 4537696.302122936
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+            Label:
+            Description: Transparency: 10
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        ID ( type: esriFieldTypeOID , alias: ID )
+        SERVICE_PROVIDER ( type: esriFieldTypeString , alias: SERVICE_PROVIDER , length: 254 )
+        AGENCY_TYPE ( type: esriFieldTypeString , alias: AGENCY_TYPE , length: 254 )
+        PARENT_AGENCY ( type: esriFieldTypeString , alias: PARENT_AGENCY , length: 254 )
+        COMMENTS ( type: esriFieldTypeString , alias: COMMENTS , length: 254 )
+        CONTACT_PHONE ( type: esriFieldTypeString , alias: CONTACT_PHONE , length: 254 )
+        ADDRESS ( type: esriFieldTypeString , alias: ADDRESS , length: 254 )
+        CITY ( type: esriFieldTypeString , alias: CITY , length: 254 )
+        STATE ( type: esriFieldTypeString , alias: STATE , length: 254 )
+        ZIPCODE ( type: esriFieldTypeDouble , alias: ZIPCODE )
+        WEBSITE ( type: esriFieldTypeString , alias: WEBSITE , length: 254 )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+
+    Layer: Export_Output_72 (9)
+    Name: Export_Output_72
+
+    Display Field: SERVICE_PROVIDER
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPoint
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.362869480748647E7
+        YMin: 4504751.757732346
+        XMax: -1.3601239080223385E7
+        YMax: 4527889.00300264
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+            Label:
+            Description: Transparency: 10
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        ID ( type: esriFieldTypeOID , alias: ID )
+        SERVICE_PROVIDER ( type: esriFieldTypeString , alias: SERVICE_PROVIDER , length: 254 )
+        AGENCY_TYPE ( type: esriFieldTypeString , alias: AGENCY_TYPE , length: 254 )
+        PARENT_AGENCY ( type: esriFieldTypeString , alias: PARENT_AGENCY , length: 254 )
+        COMMENTS ( type: esriFieldTypeString , alias: COMMENTS , length: 254 )
+        CONTACT_PHONE ( type: esriFieldTypeString , alias: CONTACT_PHONE , length: 254 )
+        ADDRESS ( type: esriFieldTypeString , alias: ADDRESS , length: 254 )
+        CITY ( type: esriFieldTypeString , alias: CITY , length: 254 )
+        STATE ( type: esriFieldTypeString , alias: STATE , length: 254 )
+        ZIPCODE ( type: esriFieldTypeDouble , alias: ZIPCODE )
+        WEBSITE ( type: esriFieldTypeString , alias: WEBSITE , length: 254 )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+
+    Layer: LIBRARIES (10)
+    Name: LIBRARIES
+
+    Display Field: SERVICE_PR
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPoint
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 36120
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3635994280189564E7
+        YMin: 4491907.564250867
+        XMax: -1.3596344842894595E7
+        YMax: 4537980.137266501
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+            Label:
+            Description: Transparency: 25
+        Labeling Info:
+            Label Placement: esriServerPointLabelPlacementAboveRight
+            Label Expression: [SERVICE_PR]
+            Use Coded Values: true
+            Symbol:
+                Color: [137, 137, 68, 255]
+                Background Color: N/A
+                Outline Color: N/A
+                Vertical Alignment: baseline
+                Horizontal Alignment: left
+                Right to Left: false
+                Angle: 0
+                XOffset: 0
+                YOffset: 0
+                Size: 8
+                Font Family: Arial
+                Font Style: italic
+                Font Weight: normal
+                Font Decoration: none
+            Min. Scale: 35000.0
+            Max. Scale: 0.0
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        OBJECTID ( type: esriFieldTypeOID , alias: OBJECTID )
+        Shape ( type: esriFieldTypeGeometry , alias: Shape )
+        SERVICE_PR ( type: esriFieldTypeString , alias: SERVICE_PR , length: 254 )
+        AGENCY_TYP ( type: esriFieldTypeString , alias: AGENCY_TYP , length: 254 )
+        PARENT_AGE ( type: esriFieldTypeString , alias: PARENT_AGE , length: 254 )
+        COMMENTS ( type: esriFieldTypeString , alias: COMMENTS , length: 254 )
+        CONTACT_PH ( type: esriFieldTypeString , alias: CONTACT_PH , length: 254 )
+        ADDRESS ( type: esriFieldTypeString , alias: ADDRESS , length: 254 )
+        CITY ( type: esriFieldTypeString , alias: CITY , length: 254 )
+        STATE ( type: esriFieldTypeString , alias: STATE , length: 254 )
+        ZIPCODE ( type: esriFieldTypeDouble , alias: ZIPCODE )
+        WEBSITE ( type: esriFieldTypeString , alias: WEBSITE , length: 254 )
+
+    Layer: STREETS2 (11)
+    Name: STREETS2
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolyline
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 2260
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3639281647014154E7
+        YMin: 4453778.650835607
+        XMax: -1.3593379893339138E7
+        YMax: 4539106.878953673
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSLSSolid
+                Color: [0, 0, 0, 0]
+                Width: 5 Label:
+            Description: Transparency: 30
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        OBJECTID ( type: esriFieldTypeOID , alias: OBJECTID )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        FULL_NAME ( type: esriFieldTypeString , alias: FULL_NAME , length: 69 )
+        PREFIX ( type: esriFieldTypeString , alias: PREFIX , length: 6 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        TYPE ( type: esriFieldTypeString , alias: TYPE , length: 4 )
+        SUFFIX ( type: esriFieldTypeString , alias: SUFFIX , length: 6 )
+        STNA_ID ( type: esriFieldTypeInteger , alias: STNA_ID )
+        LENGTH ( type: esriFieldTypeDouble , alias: LENGTH )
+        FR_ADD_L ( type: esriFieldTypeInteger , alias: FR_ADD_L )
+        TO_ADD_L ( type: esriFieldTypeInteger , alias: TO_ADD_L )
+        FR_ADD_R ( type: esriFieldTypeInteger , alias: FR_ADD_R )
+        TO_ADD_R ( type: esriFieldTypeInteger , alias: TO_ADD_R )
+        ADD_100_LO ( type: esriFieldTypeInteger , alias: ADD_100_LO )
+        ADD_100_HI ( type: esriFieldTypeInteger , alias: ADD_100_HI )
+        CITY_L ( type: esriFieldTypeString , alias: CITY_L , length: 10 )
+        CITY_R ( type: esriFieldTypeString , alias: CITY_R , length: 10 )
+        ZIP_L ( type: esriFieldTypeInteger , alias: ZIP_L )
+        ZIP_R ( type: esriFieldTypeInteger , alias: ZIP_R )
+        ERROR_FLAG ( type: esriFieldTypeInteger , alias: ERROR_FLAG )
+        TW_FLAG ( type: esriFieldTypeInteger , alias: TW_FLAG )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMEN ( type: esriFieldTypeString , alias: SRC_COMMEN , length: 50 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        OFFSET ( type: esriFieldTypeString , alias: OFFSET , length: 1 )
+        STCONO ( type: esriFieldTypeString , alias: STCONO , length: 10 )
+        RD_NO ( type: esriFieldTypeString , alias: RD_NO , length: 5 )
+        CNTY_MAINTAINED ( type: esriFieldTypeString , alias: CNTY_MAINTAINED , length: 1 )
+        STNALIST_STNA_ID ( type: esriFieldTypeInteger , alias: STNALIST_STNA_ID )
+        ATOMIC_L ( type: esriFieldTypeString , alias: ATOMIC_L , length: 25 )
+        ATOMIC_R ( type: esriFieldTypeString , alias: ATOMIC_R , length: 25 )
+        PBEAT_L ( type: esriFieldTypeString , alias: PBEAT_L , length: 25 )
+        PBEAT_R ( type: esriFieldTypeString , alias: PBEAT_R , length: 25 )
+        EMSZONE_L ( type: esriFieldTypeString , alias: EMSZONE_L , length: 25 )
+        EMSZONE_R ( type: esriFieldTypeString , alias: EMSZONE_R , length: 25 )
+        PAGENCY_L ( type: esriFieldTypeString , alias: PAGENCY_L , length: 25 )
+        PAGENCY_R ( type: esriFieldTypeString , alias: PAGENCY_R , length: 25 )
+        EMSAREA_L ( type: esriFieldTypeString , alias: EMSAREA_L , length: 25 )
+        EMSAREA_R ( type: esriFieldTypeString , alias: EMSAREA_R , length: 25 )
+        FIREZONE_L ( type: esriFieldTypeString , alias: FIREZONE_L , length: 25 )
+        FIREZONE_R ( type: esriFieldTypeString , alias: FIREZONE_R , length: 25 )
+        FIREMAP_L ( type: esriFieldTypeString , alias: FIREMAP_L , length: 25 )
+        FIREMAP_R ( type: esriFieldTypeString , alias: FIREMAP_R , length: 25 )
+        TBMPAGE_L ( type: esriFieldTypeString , alias: TBMPAGE_L , length: 25 )
+        TBMPAGE_R ( type: esriFieldTypeString , alias: TBMPAGE_R , length: 25 )
+        THAZARD_L ( type: esriFieldTypeString , alias: THAZARD_L , length: 25 )
+        THAZARD_R ( type: esriFieldTypeString , alias: THAZARD_R , length: 25 )
+        ROUTE_ID ( type: esriFieldTypeString , alias: ROUTE_ID , length: 50 )
+        LOW_MEASURE ( type: esriFieldTypeDouble , alias: LOW_MEASURE )
+        HI_MEASURE ( type: esriFieldTypeDouble , alias: HI_MEASURE )
+        LRS_REVERSE ( type: esriFieldTypeInteger , alias: LRS_REVERSE )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+
+    Layer: Tower (12)
+    Name: Tower
+
+    Display Field: MAP_NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPoint
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 37000
+
+    Max Scale: 0
+
+    Supports Advanced Queries: false
+
+    Supports Statistics: false
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3629738886164771E7
+        YMin: 4499672.636927742
+        XMax: -1.3596063827379987E7
+        YMax: 4535715.843179223
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+            Label:
+            Description: Transparency: 0
+        Labeling Info:
+            Label Placement: esriServerPointLabelPlacementAboveRight
+            Label Expression: [FEATURE_NA]
+            Use Coded Values: true
+            Symbol:
+                Color: [156, 156, 156, 255]
+                Background Color: N/A
+                Outline Color: N/A
+                Vertical Alignment: baseline
+                Horizontal Alignment: left
+                Right to Left: false
+                Angle: 0
+                XOffset: 0
+                YOffset: 0
+                Size: 8
+                Font Family: Arial
+                Font Style: italic
+                Font Weight: normal
+                Font Decoration: none
+            Min. Scale: 35000.0
+            Max. Scale: 0.0
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        FID ( type: esriFieldTypeOID , alias: FID )
+        Shape ( type: esriFieldTypeGeometry , alias: Shape )
+        FEATURE_ID ( type: esriFieldTypeInteger , alias: FEATURE_ID )
+        FEATURE_NA ( type: esriFieldTypeString , alias: FEATURE_NA , length: 254 )
+        FEATURE_CL ( type: esriFieldTypeString , alias: FEATURE_CL , length: 254 )
+        STATE_ALPH ( type: esriFieldTypeString , alias: STATE_ALPH , length: 254 )
+        STATE_NUME ( type: esriFieldTypeInteger , alias: STATE_NUME )
+        COUNTY_NAM ( type: esriFieldTypeString , alias: COUNTY_NAM , length: 254 )
+        COUNTY_NUM ( type: esriFieldTypeInteger , alias: COUNTY_NUM )
+        PRIMARY_LA ( type: esriFieldTypeString , alias: PRIMARY_LA , length: 254 )
+        PRIM_LONG_ ( type: esriFieldTypeString , alias: PRIM_LONG_ , length: 254 )
+        PRIM_LAT_D ( type: esriFieldTypeDouble , alias: PRIM_LAT_D )
+        PRIM_LONG1 ( type: esriFieldTypeDouble , alias: PRIM_LONG1 )
+        SOURCE_LAT ( type: esriFieldTypeString , alias: SOURCE_LAT , length: 254 )
+        SOURCE_LON ( type: esriFieldTypeString , alias: SOURCE_LON , length: 254 )
+        SOURCE_L_1 ( type: esriFieldTypeString , alias: SOURCE_L_1 , length: 254 )
+        SOURCE_L_2 ( type: esriFieldTypeString , alias: SOURCE_L_2 , length: 254 )
+        ELEVATION ( type: esriFieldTypeInteger , alias: ELEVATION )
+        MAP_NAME ( type: esriFieldTypeString , alias: MAP_NAME , length: 254 )
+        DATE_CREAT ( type: esriFieldTypeDate , alias: DATE_CREAT , length: 8 )
+        DATE_EDITE ( type: esriFieldTypeString , alias: DATE_EDITE , length: 254 )
+
+    Layer: POLICE_FACILITIES_PT (13)
+    Name: POLICE_FACILITIES_PT
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryMultipoint
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 36120
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3635144664979242E7
+        YMin: 4501910.828127861
+        XMax: -1.3595910571931295E7
+        YMax: 4536466.221474237
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+            Label:
+            Description: Transparency: 20
+        Labeling Info:
+            Label Placement: esriServerPointLabelPlacementAboveRight
+            Label Expression: [NAME]
+            Use Coded Values: true
+            Symbol:
+                Color: [0, 132, 168, 255]
+                Background Color: N/A
+                Outline Color: N/A
+                Vertical Alignment: baseline
+                Horizontal Alignment: left
+                Right to Left: false
+                Angle: 0
+                XOffset: 0
+                YOffset: 0
+                Size: 8
+                Font Family: Arial
+                Font Style: italic
+                Font Weight: normal
+                Font Decoration: none
+            Min. Scale: 35000.0
+            Max. Scale: 0.0
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        OBJECTID ( type: esriFieldTypeOID , alias: OBJECTID )
+        Shape ( type: esriFieldTypeGeometry , alias: Shape )
+        ID ( type: esriFieldTypeDouble , alias: ID )
+        LDMK_TYPE ( type: esriFieldTypeString , alias: LDMK_TYPE , length: 9 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 60 )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        CATEGORY ( type: esriFieldTypeString , alias: CATEGORY , length: 30 )
+        ADDRESS ( type: esriFieldTypeString , alias: ADDRESS , length: 255 )
+        ZIP_CODE ( type: esriFieldTypeString , alias: ZIP_CODE , length: 5 )
+        COMMENTS ( type: esriFieldTypeString , alias: COMMENTS , length: 255 )
+        CITY ( type: esriFieldTypeString , alias: CITY , length: 50 )
+        LDMK_LINK ( type: esriFieldTypeString , alias: LDMK_LINK , length: 255 )
+        ID1 ( type: esriFieldTypeDouble , alias: ID1 )
+        GMRotation ( type: esriFieldTypeDouble , alias: GMRotation )
+
+    Layer: Post_Office (14)
+    Name: Post_Office
+
+    Display Field: MAP_NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPoint
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 36120
+
+    Max Scale: 0
+
+    Supports Advanced Queries: false
+
+    Supports Statistics: false
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3638366814618198E7
+        YMin: 4474197.549557246
+        XMax: -1.3601537150707463E7
+        YMax: 4538216.928302451
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+            Label:
+            Description: Transparency: 10
+        Labeling Info:
+            Label Placement: esriServerPointLabelPlacementAboveRight
+            Label Expression: [FEATURE_NA]
+            Use Coded Values: true
+            Symbol:
+                Color: [0, 76, 115, 255]
+                Background Color: N/A
+                Outline Color: N/A
+                Vertical Alignment: baseline
+                Horizontal Alignment: left
+                Right to Left: false
+                Angle: 0
+                XOffset: 0
+                YOffset: 0
+                Size: 7
+                Font Family: Arial
+                Font Style: italic
+                Font Weight: normal
+                Font Decoration: none
+            Min. Scale: 35000.0
+            Max. Scale: 0.0
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        FID ( type: esriFieldTypeOID , alias: FID )
+        Shape ( type: esriFieldTypeGeometry , alias: Shape )
+        FEATURE_ID ( type: esriFieldTypeInteger , alias: FEATURE_ID )
+        FEATURE_NA ( type: esriFieldTypeString , alias: FEATURE_NA , length: 254 )
+        FEATURE_CL ( type: esriFieldTypeString , alias: FEATURE_CL , length: 254 )
+        STATE_ALPH ( type: esriFieldTypeString , alias: STATE_ALPH , length: 254 )
+        STATE_NUME ( type: esriFieldTypeInteger , alias: STATE_NUME )
+        COUNTY_NAM ( type: esriFieldTypeString , alias: COUNTY_NAM , length: 254 )
+        COUNTY_NUM ( type: esriFieldTypeInteger , alias: COUNTY_NUM )
+        PRIMARY_LA ( type: esriFieldTypeString , alias: PRIMARY_LA , length: 254 )
+        PRIM_LONG_ ( type: esriFieldTypeString , alias: PRIM_LONG_ , length: 254 )
+        PRIM_LAT_D ( type: esriFieldTypeDouble , alias: PRIM_LAT_D )
+        PRIM_LONG1 ( type: esriFieldTypeDouble , alias: PRIM_LONG1 )
+        SOURCE_LAT ( type: esriFieldTypeString , alias: SOURCE_LAT , length: 254 )
+        SOURCE_LON ( type: esriFieldTypeString , alias: SOURCE_LON , length: 254 )
+        SOURCE_L_1 ( type: esriFieldTypeString , alias: SOURCE_L_1 , length: 254 )
+        SOURCE_L_2 ( type: esriFieldTypeString , alias: SOURCE_L_2 , length: 254 )
+        ELEVATION ( type: esriFieldTypeInteger , alias: ELEVATION )
+        MAP_NAME ( type: esriFieldTypeString , alias: MAP_NAME , length: 254 )
+        DATE_CREAT ( type: esriFieldTypeDate , alias: DATE_CREAT , length: 8 )
+        DATE_EDITE ( type: esriFieldTypeString , alias: DATE_EDITE , length: 254 )
+
+    Layer: CA_Healthcare_Facility (15)
+    Name: CA_Healthcare_Facility
+
+    Display Field: FACILITY
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPoint
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 37000
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3834228505618004E7
+        YMin: 3825102.7366054007
+        XMax: -1.2684940015469942E7
+        YMax: 5160167.719607898
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+            Label:
+            Description: Transparency: 35
+        Labeling Info:
+            Label Placement: esriServerPointLabelPlacementAboveRight
+            Label Expression: [FACILITY]
+            Use Coded Values: true
+            Symbol:
+                Color: [0, 197, 255, 255]
+                Background Color: N/A
+                Outline Color: N/A
+                Vertical Alignment: baseline
+                Horizontal Alignment: left
+                Right to Left: false
+                Angle: 0
+                XOffset: 0
+                YOffset: 0
+                Size: 8
+                Font Family: Arial
+                Font Style: italic
+                Font Weight: normal
+                Font Decoration: none
+            Min. Scale: 18060.0
+            Max. Scale: 0.0
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        OBJECTID ( type: esriFieldTypeOID , alias: OBJECTID )
+        Shape ( type: esriFieldTypeGeometry , alias: Shape )
+        OSHPD_ID ( type: esriFieldTypeString , alias: OSHPD ID , length: 10 )
+        LICENSE_NO ( type: esriFieldTypeString , alias: DHS License Number , length: 9 )
+        LICENSEID ( type: esriFieldTypeString , alias: ALIRTS License ID , length: 8 )
+        ADDRESSID ( type: esriFieldTypeString , alias: ALIRTS Address ID , length: 8 )
+        FACILITYID ( type: esriFieldTypeString , alias: ALIRTS Facility ID , length: 8 )
+        ENTITYID ( type: esriFieldTypeString , alias: ALIRTS Entity ID , length: 8 )
+        PERM_ID ( type: esriFieldTypeString , alias: Facility Number (Perm ID) , length: 6 )
+        FACILITY ( type: esriFieldTypeString , alias: Facility Name , length: 80 )
+        ALIAS ( type: esriFieldTypeString , alias: Facility Alias , length: 50 )
+        ADDRESS_1 ( type: esriFieldTypeString , alias: Street Address , length: 60 )
+        ADDRESS_2 ( type: esriFieldTypeString , alias: Other Address , length: 40 )
+        CITY ( type: esriFieldTypeString , alias: City , length: 30 )
+        STATE ( type: esriFieldTypeString , alias: State , length: 2 )
+        ZIP_CODE ( type: esriFieldTypeString , alias: ZIP Code , length: 5 )
+        ZIPPLUS4 ( type: esriFieldTypeString , alias: Plus 4 of ZIP Code , length: 4 )
+        CONTACT ( type: esriFieldTypeString , alias: Contact Person , length: 80 )
+        PHONE ( type: esriFieldTypeString , alias: Contact Phone , length: 20 )
+        FAC_TYPE ( type: esriFieldTypeString , alias: Facility Type , length: 2 )
+        FAC_STATUS ( type: esriFieldTypeString , alias: Facility Status , length: 20 )
+        STATUS_ID ( type: esriFieldTypeString , alias: Facility Status ID , length: 2 )
+        STATUS_DAT ( type: esriFieldTypeDate , alias: Facility Status Date , length: 8 )
+        ADDR_DATE ( type: esriFieldTypeDate , alias: Address Update Date , length: 8 )
+        TYPE ( type: esriFieldTypeString , alias: License Type , length: 50 )
+        TYPE_ID ( type: esriFieldTypeString , alias: Licence Type ID , length: 2 )
+        CATEGORY ( type: esriFieldTypeString , alias: License Category , length: 40 )
+        CATEGRY_ID ( type: esriFieldTypeString , alias: License Category ID , length: 2 )
+        CNTRL_CTGY ( type: esriFieldTypeString , alias: Control Category , length: 20 )
+        CNTRL_TYPE ( type: esriFieldTypeString , alias: Control Type , length: 40 )
+        LIC_BEDS ( type: esriFieldTypeDouble , alias: Total Licensed Beds )
+        LIC_ED_LVL ( type: esriFieldTypeString , alias: Licensed Emergency Department Level , length: 40 )
+        EMS_TRAUMA ( type: esriFieldTypeString , alias: EMSA Trauma Center Designation , length: 60 )
+        TEACH_HOSP ( type: esriFieldTypeSmallInteger , alias: Teaching Hospital )
+        RURAL_HOSP ( type: esriFieldTypeSmallInteger , alias: Rural Hospital )
+        GCD_MTYPE ( type: esriFieldTypeString , alias: Geocode Match Type , length: 10 )
+        GCD_SCORE ( type: esriFieldTypeSmallInteger , alias: Geocode Match Score )
+        LONGITUDE ( type: esriFieldTypeDouble , alias: Longitude (NAD83) )
+        LATITUDE ( type: esriFieldTypeDouble , alias: Latitude (NAD83) )
+        COUNTY ( type: esriFieldTypeString , alias: County Name , length: 20 )
+        CNTY_FIPS ( type: esriFieldTypeString , alias: County FIPS Code , length: 3 )
+        MSSA_ID ( type: esriFieldTypeString , alias: MSSA ID , length: 10 )
+        MSSA_DFN ( type: esriFieldTypeString , alias: MSSA Designation , length: 10 )
+        TRACT_FIPS ( type: esriFieldTypeString , alias: Census Tract FIPS , length: 12 )
+        TRACT ( type: esriFieldTypeString , alias: Census Tract , length: 7 )
+        BLOCK_FIPS ( type: esriFieldTypeString , alias: Census Block FIPS , length: 15 )
+        SD ( type: esriFieldTypeString , alias: Senate District , length: 2 )
+        AD ( type: esriFieldTypeString , alias: Assembly District , length: 2 )
+        CD ( type: esriFieldTypeString , alias: Congressional District , length: 2 )
+        OES ( type: esriFieldTypeString , alias: OES Region , length: 3 )
+        FDD ( type: esriFieldTypeString , alias: FDD Region , length: 3 )
+        HSA ( type: esriFieldTypeString , alias: Health Service Area , length: 2 )
+        SPA ( type: esriFieldTypeString , alias: Service Planning Area , length: 2 )
+        RUCA ( type: esriFieldTypeSmallInteger , alias: Rural-Urban Commuting Area )
+        MA ( type: esriFieldTypeSmallInteger , alias: Metropolitan Area )
+        UA ( type: esriFieldTypeSmallInteger , alias: Urbanized Area )
+        CAH ( type: esriFieldTypeSmallInteger , alias: Critical Access Hospital )
+        DSH ( type: esriFieldTypeSmallInteger , alias: Disproportionate Share Hospital )
+        FQHC ( type: esriFieldTypeSmallInteger , alias: Federally Qualified Health Center )
+        FQHC_LOOK ( type: esriFieldTypeSmallInteger , alias: FQHC Look-Alike )
+
+    Layer: FIRE_STATIONS (16)
+    Name: FIRE_STATIONS
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryMultipoint
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 37000
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.363602464548354E7
+        YMin: 4473745.792623059
+        XMax: -1.3596168245116346E7
+        YMax: 4538274.6431624
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+            Label:
+            Description: Transparency: 30
+        Labeling Info:
+            Label Placement: esriServerPointLabelPlacementAboveRight
+            Label Expression: [NAME]
+            Use Coded Values: true
+            Symbol:
+                Color: [245, 122, 122, 255]
+                Background Color: N/A
+                Outline Color: N/A
+                Vertical Alignment: baseline
+                Horizontal Alignment: left
+                Right to Left: false
+                Angle: 0
+                XOffset: 0
+                YOffset: 0
+                Size: 8
+                Font Family: Arial
+                Font Style: italic
+                Font Weight: normal
+                Font Decoration: none
+            Min. Scale: 35000.0
+            Max. Scale: 0.0
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        OBJECTID ( type: esriFieldTypeOID , alias: OBJECTID )
+        Shape ( type: esriFieldTypeGeometry , alias: Shape )
+        LDMK_TYPE ( type: esriFieldTypeString , alias: LDMK_TYPE , length: 11 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 60 )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMEN ( type: esriFieldTypeString , alias: SRC_COMMEN , length: 50 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        GEOMETRY_S ( type: esriFieldTypeString , alias: GEOMETRY_S , length: 15 )
+
+    Layer: Cemetery (17)
+    Name: Cemetery
+
+    Display Field: MAP_NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPoint
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 37000
+
+    Max Scale: 0
+
+    Supports Advanced Queries: false
+
+    Supports Statistics: false
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.363363520192593E7
+        YMin: 4475129.9056954915
+        XMax: -1.3602932551656503E7
+        YMax: 4534934.401659675
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+            Label:
+            Description: Transparency: 50
+        Labeling Info:
+            Label Placement: esriServerPointLabelPlacementAboveRight
+            Label Expression: [FEATURE_NA]
+            Use Coded Values: true
+            Symbol:
+                Color: [156, 156, 156, 255]
+                Background Color: N/A
+                Outline Color: N/A
+                Vertical Alignment: baseline
+                Horizontal Alignment: left
+                Right to Left: false
+                Angle: 0
+                XOffset: 0
+                YOffset: 0
+                Size: 8
+                Font Family: Arial
+                Font Style: italic
+                Font Weight: normal
+                Font Decoration: none
+            Min. Scale: 18020.0
+            Max. Scale: 0.0
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        FID ( type: esriFieldTypeOID , alias: FID )
+        Shape ( type: esriFieldTypeGeometry , alias: Shape )
+        FEATURE_ID ( type: esriFieldTypeInteger , alias: FEATURE_ID )
+        FEATURE_NA ( type: esriFieldTypeString , alias: FEATURE_NA , length: 254 )
+        FEATURE_CL ( type: esriFieldTypeString , alias: FEATURE_CL , length: 254 )
+        STATE_ALPH ( type: esriFieldTypeString , alias: STATE_ALPH , length: 254 )
+        STATE_NUME ( type: esriFieldTypeInteger , alias: STATE_NUME )
+        COUNTY_NAM ( type: esriFieldTypeString , alias: COUNTY_NAM , length: 254 )
+        COUNTY_NUM ( type: esriFieldTypeInteger , alias: COUNTY_NUM )
+        PRIMARY_LA ( type: esriFieldTypeString , alias: PRIMARY_LA , length: 254 )
+        PRIM_LONG_ ( type: esriFieldTypeString , alias: PRIM_LONG_ , length: 254 )
+        PRIM_LAT_D ( type: esriFieldTypeDouble , alias: PRIM_LAT_D )
+        PRIM_LONG1 ( type: esriFieldTypeDouble , alias: PRIM_LONG1 )
+        SOURCE_LAT ( type: esriFieldTypeString , alias: SOURCE_LAT , length: 254 )
+        SOURCE_LON ( type: esriFieldTypeString , alias: SOURCE_LON , length: 254 )
+        SOURCE_L_1 ( type: esriFieldTypeString , alias: SOURCE_L_1 , length: 254 )
+        SOURCE_L_2 ( type: esriFieldTypeString , alias: SOURCE_L_2 , length: 254 )
+        ELEVATION ( type: esriFieldTypeInteger , alias: ELEVATION )
+        MAP_NAME ( type: esriFieldTypeString , alias: MAP_NAME , length: 254 )
+        DATE_CREAT ( type: esriFieldTypeDate , alias: DATE_CREAT , length: 8 )
+        DATE_EDITE ( type: esriFieldTypeString , alias: DATE_EDITE , length: 254 )
+
+    Layer: Church (18)
+    Name: Church
+
+    Display Field: MAP_NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPoint
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 37000
+
+    Max Scale: 0
+
+    Supports Advanced Queries: false
+
+    Supports Statistics: false
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3637624491725795E7
+        YMin: 4474624.858140462
+        XMax: -1.359677905510833E7
+        YMax: 4537904.280965326
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+            Label:
+            Description: Transparency: 35
+        Labeling Info:
+            Label Placement: esriServerPointLabelPlacementAboveRight
+            Label Expression: [FEATURE_NA]
+            Use Coded Values: true
+            Symbol:
+                Color: [205, 170, 102, 255]
+                Background Color: N/A
+                Outline Color: N/A
+                Vertical Alignment: baseline
+                Horizontal Alignment: left
+                Right to Left: false
+                Angle: 0
+                XOffset: 0
+                YOffset: 0
+                Size: 8
+                Font Family: Arial
+                Font Style: italic
+                Font Weight: normal
+                Font Decoration: none
+            Min. Scale: 18020.0
+            Max. Scale: 0.0
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        FID ( type: esriFieldTypeOID , alias: FID )
+        Shape ( type: esriFieldTypeGeometry , alias: Shape )
+        FEATURE_ID ( type: esriFieldTypeInteger , alias: FEATURE_ID )
+        FEATURE_NA ( type: esriFieldTypeString , alias: FEATURE_NA , length: 254 )
+        FEATURE_CL ( type: esriFieldTypeString , alias: FEATURE_CL , length: 254 )
+        STATE_ALPH ( type: esriFieldTypeString , alias: STATE_ALPH , length: 254 )
+        STATE_NUME ( type: esriFieldTypeInteger , alias: STATE_NUME )
+        COUNTY_NAM ( type: esriFieldTypeString , alias: COUNTY_NAM , length: 254 )
+        COUNTY_NUM ( type: esriFieldTypeInteger , alias: COUNTY_NUM )
+        PRIMARY_LA ( type: esriFieldTypeString , alias: PRIMARY_LA , length: 254 )
+        PRIM_LONG_ ( type: esriFieldTypeString , alias: PRIM_LONG_ , length: 254 )
+        PRIM_LAT_D ( type: esriFieldTypeDouble , alias: PRIM_LAT_D )
+        PRIM_LONG1 ( type: esriFieldTypeDouble , alias: PRIM_LONG1 )
+        SOURCE_LAT ( type: esriFieldTypeString , alias: SOURCE_LAT , length: 254 )
+        SOURCE_LON ( type: esriFieldTypeString , alias: SOURCE_LON , length: 254 )
+        SOURCE_L_1 ( type: esriFieldTypeString , alias: SOURCE_L_1 , length: 254 )
+        SOURCE_L_2 ( type: esriFieldTypeString , alias: SOURCE_L_2 , length: 254 )
+        ELEVATION ( type: esriFieldTypeInteger , alias: ELEVATION )
+        MAP_NAME ( type: esriFieldTypeString , alias: MAP_NAME , length: 254 )
+        DATE_CREAT ( type: esriFieldTypeDate , alias: DATE_CREAT , length: 8 )
+        DATE_EDITE ( type: esriFieldTypeString , alias: DATE_EDITE , length: 254 )
+
+    Layer: Airport (19)
+    Name: Airport
+
+    Display Field: MAP_NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPoint
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 72250
+
+    Max Scale: 0
+
+    Supports Advanced Queries: false
+
+    Supports Statistics: false
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.363685165616096E7
+        YMin: 4510542.682183038
+        XMax: -1.3608865824856037E7
+        YMax: 4525717.450064763
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+            Label:
+            Description: Transparency: 0
+        Labeling Info:
+            Label Placement: esriServerPointLabelPlacementAboveRight
+            Label Expression: [FEATURE_NA]
+            Use Coded Values: true
+            Symbol:
+                Color: [156, 156, 156, 255]
+                Background Color: N/A
+                Outline Color: N/A
+                Vertical Alignment: baseline
+                Horizontal Alignment: left
+                Right to Left: false
+                Angle: 0
+                XOffset: 0
+                YOffset: 0
+                Size: 8
+                Font Family: Arial
+                Font Style: italic
+                Font Weight: normal
+                Font Decoration: none
+            Min. Scale: 37000.0
+            Max. Scale: 0.0
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        FID ( type: esriFieldTypeOID , alias: FID )
+        Shape ( type: esriFieldTypeGeometry , alias: Shape )
+        FEATURE_ID ( type: esriFieldTypeInteger , alias: FEATURE_ID )
+        FEATURE_NA ( type: esriFieldTypeString , alias: FEATURE_NA , length: 254 )
+        FEATURE_CL ( type: esriFieldTypeString , alias: FEATURE_CL , length: 254 )
+        STATE_ALPH ( type: esriFieldTypeString , alias: STATE_ALPH , length: 254 )
+        STATE_NUME ( type: esriFieldTypeInteger , alias: STATE_NUME )
+        COUNTY_NAM ( type: esriFieldTypeString , alias: COUNTY_NAM , length: 254 )
+        COUNTY_NUM ( type: esriFieldTypeInteger , alias: COUNTY_NUM )
+        PRIMARY_LA ( type: esriFieldTypeString , alias: PRIMARY_LA , length: 254 )
+        PRIM_LONG_ ( type: esriFieldTypeString , alias: PRIM_LONG_ , length: 254 )
+        PRIM_LAT_D ( type: esriFieldTypeDouble , alias: PRIM_LAT_D )
+        PRIM_LONG1 ( type: esriFieldTypeDouble , alias: PRIM_LONG1 )
+        SOURCE_LAT ( type: esriFieldTypeString , alias: SOURCE_LAT , length: 254 )
+        SOURCE_LON ( type: esriFieldTypeString , alias: SOURCE_LON , length: 254 )
+        SOURCE_L_1 ( type: esriFieldTypeString , alias: SOURCE_L_1 , length: 254 )
+        SOURCE_L_2 ( type: esriFieldTypeString , alias: SOURCE_L_2 , length: 254 )
+        ELEVATION ( type: esriFieldTypeInteger , alias: ELEVATION )
+        MAP_NAME ( type: esriFieldTypeString , alias: MAP_NAME , length: 254 )
+        DATE_CREAT ( type: esriFieldTypeDate , alias: DATE_CREAT , length: 8 )
+        DATE_EDITE ( type: esriFieldTypeString , alias: DATE_EDITE , length: 254 )
+
+    Layer: STREETS (20)
+    Name: STREETS
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolyline
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 72223.819286
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3639286210701898E7
+        YMin: 4453777.121397398
+        XMax: -1.3593384519185137E7
+        YMax: 4539105.184711414
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSLSSolid
+                Color: [0, 0, 0, 0]
+                Width: 1 Label:
+            Description: Transparency: 30
+        Labeling Info:
+            Label Placement: esriServerLinePlacementAboveAlong
+            Label Expression: [ADD_100_LO]
+            Use Coded Values: true
+            Symbol:
+                Color: [130, 130, 130, 255]
+                Background Color: N/A
+                Outline Color: N/A
+                Vertical Alignment: baseline
+                Horizontal Alignment: left
+                Right to Left: false
+                Angle: 0
+                XOffset: 0
+                YOffset: 3
+                Size: 8
+                Font Family: Arial
+                Font Style: normal
+                Font Weight: normal
+                Font Decoration: none
+            Min. Scale: 4520.0
+            Max. Scale: 0.0
+
+    HasZ: false
+
+    HasM: true
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        OBJECTID ( type: esriFieldTypeOID , alias: OBJECTID )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        FULL_NAME ( type: esriFieldTypeString , alias: FULL_NAME , length: 69 )
+        PREFIX ( type: esriFieldTypeString , alias: PREFIX , length: 6 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        TYPE ( type: esriFieldTypeString , alias: TYPE , length: 4 )
+        SUFFIX ( type: esriFieldTypeString , alias: SUFFIX , length: 6 )
+        STNA_ID ( type: esriFieldTypeInteger , alias: STNA_ID )
+        LENGTH ( type: esriFieldTypeDouble , alias: LENGTH )
+        FR_ADD_L ( type: esriFieldTypeInteger , alias: FR_ADD_L )
+        TO_ADD_L ( type: esriFieldTypeInteger , alias: TO_ADD_L )
+        FR_ADD_R ( type: esriFieldTypeInteger , alias: FR_ADD_R )
+        TO_ADD_R ( type: esriFieldTypeInteger , alias: TO_ADD_R )
+        ADD_100_LO ( type: esriFieldTypeInteger , alias: ADD_100_LO )
+        ADD_100_HI ( type: esriFieldTypeInteger , alias: ADD_100_HI )
+        CITY_L ( type: esriFieldTypeString , alias: CITY_L , length: 10 )
+        CITY_R ( type: esriFieldTypeString , alias: CITY_R , length: 10 )
+        ZIP_L ( type: esriFieldTypeInteger , alias: ZIP_L )
+        ZIP_R ( type: esriFieldTypeInteger , alias: ZIP_R )
+        ERROR_FLAG ( type: esriFieldTypeInteger , alias: ERROR_FLAG )
+        TW_FLAG ( type: esriFieldTypeInteger , alias: TW_FLAG )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMEN ( type: esriFieldTypeString , alias: SRC_COMMEN , length: 50 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        OFFSET ( type: esriFieldTypeString , alias: OFFSET , length: 1 )
+        STCONO ( type: esriFieldTypeString , alias: STCONO , length: 10 )
+        RD_NO ( type: esriFieldTypeString , alias: RD_NO , length: 5 )
+        CNTY_MAINTAINED ( type: esriFieldTypeString , alias: CNTY_MAINTAINED , length: 1 )
+        STNALIST_STNA_ID ( type: esriFieldTypeInteger , alias: STNALIST_STNA_ID )
+        ATOMIC_L ( type: esriFieldTypeString , alias: ATOMIC_L , length: 25 )
+        ATOMIC_R ( type: esriFieldTypeString , alias: ATOMIC_R , length: 25 )
+        PBEAT_L ( type: esriFieldTypeString , alias: PBEAT_L , length: 25 )
+        PBEAT_R ( type: esriFieldTypeString , alias: PBEAT_R , length: 25 )
+        EMSZONE_L ( type: esriFieldTypeString , alias: EMSZONE_L , length: 25 )
+        EMSZONE_R ( type: esriFieldTypeString , alias: EMSZONE_R , length: 25 )
+        PAGENCY_L ( type: esriFieldTypeString , alias: PAGENCY_L , length: 25 )
+        PAGENCY_R ( type: esriFieldTypeString , alias: PAGENCY_R , length: 25 )
+        EMSAREA_L ( type: esriFieldTypeString , alias: EMSAREA_L , length: 25 )
+        EMSAREA_R ( type: esriFieldTypeString , alias: EMSAREA_R , length: 25 )
+        FIREZONE_L ( type: esriFieldTypeString , alias: FIREZONE_L , length: 25 )
+        FIREZONE_R ( type: esriFieldTypeString , alias: FIREZONE_R , length: 25 )
+        FIREMAP_L ( type: esriFieldTypeString , alias: FIREMAP_L , length: 25 )
+        FIREMAP_R ( type: esriFieldTypeString , alias: FIREMAP_R , length: 25 )
+        TBMPAGE_L ( type: esriFieldTypeString , alias: TBMPAGE_L , length: 25 )
+        TBMPAGE_R ( type: esriFieldTypeString , alias: TBMPAGE_R , length: 25 )
+        THAZARD_L ( type: esriFieldTypeString , alias: THAZARD_L , length: 25 )
+        THAZARD_R ( type: esriFieldTypeString , alias: THAZARD_R , length: 25 )
+        ROUTE_ID ( type: esriFieldTypeString , alias: ROUTE_ID , length: 50 )
+        LOW_MEASURE ( type: esriFieldTypeDouble , alias: LOW_MEASURE )
+        HI_MEASURE ( type: esriFieldTypeDouble , alias: HI_MEASURE )
+        LRS_REVERSE ( type: esriFieldTypeInteger , alias: LRS_REVERSE )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+
+    Layer: MAJOR_ROADS_CARTO (21)
+    Name: MAJOR_ROADS_CARTO
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolyline
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.363914740176565E7
+        YMin: 4453780.076583937
+        XMax: -1.3594391888950063E7
+        YMax: 4539064.124212821
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSLSSolid
+                Color: [37, 158, 0, 255]
+                Width: 1 Label:
+            Description: Transparency: 0
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: true
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        FULL_NAME ( type: esriFieldTypeString , alias: FULL_NAME , length: 69 )
+        PREFIX ( type: esriFieldTypeString , alias: PREFIX , length: 6 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        TYPE ( type: esriFieldTypeString , alias: TYPE , length: 4 )
+        SUFFIX ( type: esriFieldTypeString , alias: SUFFIX , length: 6 )
+        STREET_ID ( type: esriFieldTypeOID , alias: STREET_ID )
+        STNA_ID ( type: esriFieldTypeInteger , alias: STNA_ID )
+        LENGTH ( type: esriFieldTypeDouble , alias: LENGTH )
+        FR_ADD_L ( type: esriFieldTypeInteger , alias: FR_ADD_L )
+        TO_ADD_L ( type: esriFieldTypeInteger , alias: TO_ADD_L )
+        FR_ADD_R ( type: esriFieldTypeInteger , alias: FR_ADD_R )
+        TO_ADD_R ( type: esriFieldTypeInteger , alias: TO_ADD_R )
+        ADD_100_LO ( type: esriFieldTypeInteger , alias: ADD_100_LO )
+        ADD_100_HI ( type: esriFieldTypeInteger , alias: ADD_100_HI )
+        CITY_L ( type: esriFieldTypeString , alias: CITY_L , length: 10 )
+        CITY_R ( type: esriFieldTypeString , alias: CITY_R , length: 10 )
+        ZIP_L ( type: esriFieldTypeInteger , alias: ZIP_L )
+        ZIP_R ( type: esriFieldTypeInteger , alias: ZIP_R )
+        ERROR_FLAG ( type: esriFieldTypeInteger , alias: ERROR_FLAG )
+        TW_FLAG ( type: esriFieldTypeInteger , alias: TW_FLAG )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMEN ( type: esriFieldTypeString , alias: SRC_COMMEN , length: 50 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        OFFSET ( type: esriFieldTypeString , alias: OFFSET , length: 1 )
+        STCONO ( type: esriFieldTypeString , alias: STCONO , length: 10 )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        RD_NO ( type: esriFieldTypeString , alias: RD_NO , length: 5 )
+        CNTY_MAINTAINED ( type: esriFieldTypeString , alias: CNTY_MAINTAINED , length: 1 )
+        STNALIST_STNA_ID ( type: esriFieldTypeInteger , alias: STNALIST_STNA_ID )
+        ATOMIC_L ( type: esriFieldTypeString , alias: ATOMIC_L , length: 25 )
+        ATOMIC_R ( type: esriFieldTypeString , alias: ATOMIC_R , length: 25 )
+        PBEAT_L ( type: esriFieldTypeString , alias: PBEAT_L , length: 25 )
+        PBEAT_R ( type: esriFieldTypeString , alias: PBEAT_R , length: 25 )
+        EMSZONE_L ( type: esriFieldTypeString , alias: EMSZONE_L , length: 25 )
+        EMSZONE_R ( type: esriFieldTypeString , alias: EMSZONE_R , length: 25 )
+        PAGENCY_L ( type: esriFieldTypeString , alias: PAGENCY_L , length: 25 )
+        PAGENCY_R ( type: esriFieldTypeString , alias: PAGENCY_R , length: 25 )
+        EMSAREA_L ( type: esriFieldTypeString , alias: EMSAREA_L , length: 25 )
+        EMSAREA_R ( type: esriFieldTypeString , alias: EMSAREA_R , length: 25 )
+        FIREZONE_L ( type: esriFieldTypeString , alias: FIREZONE_L , length: 25 )
+        FIREZONE_R ( type: esriFieldTypeString , alias: FIREZONE_R , length: 25 )
+        FIREMAP_L ( type: esriFieldTypeString , alias: FIREMAP_L , length: 25 )
+        FIREMAP_R ( type: esriFieldTypeString , alias: FIREMAP_R , length: 25 )
+        TBMPAGE_L ( type: esriFieldTypeString , alias: TBMPAGE_L , length: 25 )
+        TBMPAGE_R ( type: esriFieldTypeString , alias: TBMPAGE_R , length: 25 )
+        THAZARD_L ( type: esriFieldTypeString , alias: THAZARD_L , length: 25 )
+        THAZARD_R ( type: esriFieldTypeString , alias: THAZARD_R , length: 25 )
+        ROUTE_ID ( type: esriFieldTypeString , alias: ROUTE_ID , length: 50 )
+        LOW_MEASURE ( type: esriFieldTypeDouble , alias: LOW_MEASURE )
+        HI_MEASURE ( type: esriFieldTypeDouble , alias: HI_MEASURE )
+        LRS_REVERSE ( type: esriFieldTypeInteger , alias: LRS_REVERSE )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+
+    Layer: newCityHall (22)
+    Name: newCityHall
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolygon
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 37000
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3635809783968832E7
+        YMin: 4491838.4196537025
+        XMax: -1.3596308348591836E7
+        YMax: 4536577.985126895
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSFSSolid
+                Color: [215, 194, 158, 255]
+                Outline:
+                    Style: esriSLSSolid
+                    Color: [0, 0, 0, 0]
+                    Width: 0 Label:
+            Description: Transparency: 50
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        OBJECTID ( type: esriFieldTypeOID , alias: OBJECTID )
+        Shape ( type: esriFieldTypeGeometry , alias: Shape )
+        ID ( type: esriFieldTypeDouble , alias: ID )
+        LDMK_TYPE ( type: esriFieldTypeString , alias: LDMK_TYPE , length: 9 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 60 )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        CATEGORY ( type: esriFieldTypeString , alias: CATEGORY , length: 30 )
+        ADDRESS ( type: esriFieldTypeString , alias: ADDRESS , length: 255 )
+        ZIP_CODE ( type: esriFieldTypeString , alias: ZIP_CODE , length: 5 )
+        COMMENTS ( type: esriFieldTypeString , alias: COMMENTS , length: 255 )
+        CITY ( type: esriFieldTypeString , alias: CITY , length: 50 )
+        LDMK_LINK ( type: esriFieldTypeString , alias: LDMK_LINK , length: 255 )
+        Shape_Length ( type: esriFieldTypeDouble , alias: Shape_Length )
+        Shape_Area ( type: esriFieldTypeDouble , alias: Shape_Area )
+
+    Layer: Export_Output_83 (23)
+    Name: Export_Output_83
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolygon
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 37000
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3635805213813769E7
+        YMin: 4491840.029740646
+        XMax: -1.3596303712227063E7
+        YMax: 4536579.67491403
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSFSSolid
+                Color: [0, 0, 0, 0]
+                Outline:
+                    Style: esriSLSSolid
+                    Color: [0, 0, 0, 0]
+                    Width: 0 Label:
+            Description: Transparency: 50
+        Labeling Info:
+            Label Placement: esriServerPolygonPlacementAlwaysHorizontal
+            Label Expression: [NAME]
+            Use Coded Values: true
+            Symbol:
+                Color: [205, 170, 102, 255]
+                Background Color: N/A
+                Outline Color: N/A
+                Vertical Alignment: baseline
+                Horizontal Alignment: left
+                Right to Left: false
+                Angle: 0
+                XOffset: 0
+                YOffset: 0
+                Size: 8
+                Font Family: Arial
+                Font Style: italic
+                Font Weight: normal
+                Font Decoration: none
+            Min. Scale: 0.0
+            Max. Scale: 0.0
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        OBJECTID ( type: esriFieldTypeOID , alias: OBJECTID )
+        Shape ( type: esriFieldTypeGeometry , alias: Shape )
+        ID ( type: esriFieldTypeDouble , alias: ID )
+        LDMK_TYPE ( type: esriFieldTypeString , alias: LDMK_TYPE , length: 9 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 60 )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        CATEGORY ( type: esriFieldTypeString , alias: CATEGORY , length: 30 )
+        ADDRESS ( type: esriFieldTypeString , alias: ADDRESS , length: 255 )
+        ZIP_CODE ( type: esriFieldTypeString , alias: ZIP_CODE , length: 5 )
+        COMMENTS ( type: esriFieldTypeString , alias: COMMENTS , length: 255 )
+        CITY ( type: esriFieldTypeString , alias: CITY , length: 50 )
+        LDMK_LINK ( type: esriFieldTypeString , alias: LDMK_LINK , length: 255 )
+        Shape_Length ( type: esriFieldTypeDouble , alias: Shape_Length )
+        Shape_Area ( type: esriFieldTypeDouble , alias: Shape_Area )
+
+    Layer: CITY (24)
+    Name: CITY
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolygon
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 18057
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3639392596275987E7
+        YMin: 4453489.268367867
+        XMax: -1.3592825151396899E7
+        YMax: 4539096.4480449185
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSFSSolid
+                Color: [0, 0, 0, 0]
+                Outline:
+                    Style: esriSLSDash
+                    Color: [0, 0, 0, 255]
+                    Width: 1 Label:
+            Description: Transparency: 0
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        CITY_BDRY_ID ( type: esriFieldTypeOID , alias: CITY_BDRY_ID )
+        AREA ( type: esriFieldTypeDouble , alias: AREA )
+        PERIMETER ( type: esriFieldTypeDouble , alias: PERIMETER )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMENT ( type: esriFieldTypeString , alias: SRC_COMMENT , length: 50 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        UNINCORPORATED ( type: esriFieldTypeSmallInteger , alias: UNINCORPORATED )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        ABBR ( type: esriFieldTypeString , alias: ABBR , length: 3 )
+        HANSEN_AREA ( type: esriFieldTypeString , alias: HANSEN_AREA , length: 50 )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+        GEOMETRY_Area ( type: esriFieldTypeDouble , alias: GEOMETRY_Area )
+
+    Layer: hwy_35 (25)
+    Name: hwy_35
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolyline
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3636438219542472E7
+        YMin: 4477905.423516401
+        XMax: -1.3597796450802373E7
+        YMax: 4539010.983456738
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSLSSolid
+                Color: [204, 204, 204, 255]
+                Width: 2 Label:
+            Description: Transparency: 80
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: true
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        FULL_NAME ( type: esriFieldTypeString , alias: FULL_NAME , length: 69 )
+        PREFIX ( type: esriFieldTypeString , alias: PREFIX , length: 6 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        TYPE ( type: esriFieldTypeString , alias: TYPE , length: 4 )
+        SUFFIX ( type: esriFieldTypeString , alias: SUFFIX , length: 6 )
+        STNA_ID ( type: esriFieldTypeInteger , alias: STNA_ID )
+        LENGTH ( type: esriFieldTypeDouble , alias: LENGTH )
+        FR_ADD_L ( type: esriFieldTypeInteger , alias: FR_ADD_L )
+        TO_ADD_L ( type: esriFieldTypeInteger , alias: TO_ADD_L )
+        FR_ADD_R ( type: esriFieldTypeInteger , alias: FR_ADD_R )
+        TO_ADD_R ( type: esriFieldTypeInteger , alias: TO_ADD_R )
+        ADD_100_LO ( type: esriFieldTypeInteger , alias: ADD_100_LO )
+        ADD_100_HI ( type: esriFieldTypeInteger , alias: ADD_100_HI )
+        CITY_L ( type: esriFieldTypeString , alias: CITY_L , length: 10 )
+        CITY_R ( type: esriFieldTypeString , alias: CITY_R , length: 10 )
+        ZIP_L ( type: esriFieldTypeInteger , alias: ZIP_L )
+        ZIP_R ( type: esriFieldTypeInteger , alias: ZIP_R )
+        ERROR_FLAG ( type: esriFieldTypeInteger , alias: ERROR_FLAG )
+        TW_FLAG ( type: esriFieldTypeInteger , alias: TW_FLAG )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMEN ( type: esriFieldTypeString , alias: SRC_COMMEN , length: 50 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        OFFSET ( type: esriFieldTypeString , alias: OFFSET , length: 1 )
+        STCONO ( type: esriFieldTypeString , alias: STCONO , length: 10 )
+        RD_NO ( type: esriFieldTypeString , alias: RD_NO , length: 5 )
+        CNTY_MAINTAINED ( type: esriFieldTypeString , alias: CNTY_MAINTAINED , length: 1 )
+        STNALIST_STNA_ID ( type: esriFieldTypeInteger , alias: STNALIST_STNA_ID )
+        ATOMIC_L ( type: esriFieldTypeString , alias: ATOMIC_L , length: 25 )
+        ATOMIC_R ( type: esriFieldTypeString , alias: ATOMIC_R , length: 25 )
+        PBEAT_L ( type: esriFieldTypeString , alias: PBEAT_L , length: 25 )
+        PBEAT_R ( type: esriFieldTypeString , alias: PBEAT_R , length: 25 )
+        EMSZONE_L ( type: esriFieldTypeString , alias: EMSZONE_L , length: 25 )
+        EMSZONE_R ( type: esriFieldTypeString , alias: EMSZONE_R , length: 25 )
+        PAGENCY_L ( type: esriFieldTypeString , alias: PAGENCY_L , length: 25 )
+        PAGENCY_R ( type: esriFieldTypeString , alias: PAGENCY_R , length: 25 )
+        EMSAREA_L ( type: esriFieldTypeString , alias: EMSAREA_L , length: 25 )
+        EMSAREA_R ( type: esriFieldTypeString , alias: EMSAREA_R , length: 25 )
+        FIREZONE_L ( type: esriFieldTypeString , alias: FIREZONE_L , length: 25 )
+        FIREZONE_R ( type: esriFieldTypeString , alias: FIREZONE_R , length: 25 )
+        FIREMAP_L ( type: esriFieldTypeString , alias: FIREMAP_L , length: 25 )
+        FIREMAP_R ( type: esriFieldTypeString , alias: FIREMAP_R , length: 25 )
+        TBMPAGE_L ( type: esriFieldTypeString , alias: TBMPAGE_L , length: 25 )
+        TBMPAGE_R ( type: esriFieldTypeString , alias: TBMPAGE_R , length: 25 )
+        THAZARD_L ( type: esriFieldTypeString , alias: THAZARD_L , length: 25 )
+        THAZARD_R ( type: esriFieldTypeString , alias: THAZARD_R , length: 25 )
+        ROUTE_ID ( type: esriFieldTypeString , alias: ROUTE_ID , length: 50 )
+        LOW_MEASURE ( type: esriFieldTypeDouble , alias: LOW_MEASURE )
+        HI_MEASURE ( type: esriFieldTypeDouble , alias: HI_MEASURE )
+        LRS_REVERSE ( type: esriFieldTypeInteger , alias: LRS_REVERSE )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+        STREET_ID ( type: esriFieldTypeOID , alias: STREET_ID )
+
+    Layer: HWY_84_CARTO (26)
+    Name: HWY_84_CARTO
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolyline
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3626006357959552E7
+        YMin: 4482186.905888259
+        XMax: -1.3592572335364014E7
+        YMax: 4510988.056206844
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSLSSolid
+                Color: [225, 225, 225, 255]
+                Width: 2 Label:
+            Description: Transparency: 80
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: true
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        FULL_NAME ( type: esriFieldTypeString , alias: FULL_NAME , length: 69 )
+        PREFIX ( type: esriFieldTypeString , alias: PREFIX , length: 6 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        TYPE ( type: esriFieldTypeString , alias: TYPE , length: 4 )
+        SUFFIX ( type: esriFieldTypeString , alias: SUFFIX , length: 6 )
+        STREET_ID ( type: esriFieldTypeOID , alias: STREET_ID )
+        STNA_ID ( type: esriFieldTypeInteger , alias: STNA_ID )
+        LENGTH ( type: esriFieldTypeDouble , alias: LENGTH )
+        FR_ADD_L ( type: esriFieldTypeInteger , alias: FR_ADD_L )
+        TO_ADD_L ( type: esriFieldTypeInteger , alias: TO_ADD_L )
+        FR_ADD_R ( type: esriFieldTypeInteger , alias: FR_ADD_R )
+        TO_ADD_R ( type: esriFieldTypeInteger , alias: TO_ADD_R )
+        ADD_100_LO ( type: esriFieldTypeInteger , alias: ADD_100_LO )
+        ADD_100_HI ( type: esriFieldTypeInteger , alias: ADD_100_HI )
+        CITY_L ( type: esriFieldTypeString , alias: CITY_L , length: 10 )
+        CITY_R ( type: esriFieldTypeString , alias: CITY_R , length: 10 )
+        ZIP_L ( type: esriFieldTypeInteger , alias: ZIP_L )
+        ZIP_R ( type: esriFieldTypeInteger , alias: ZIP_R )
+        ERROR_FLAG ( type: esriFieldTypeInteger , alias: ERROR_FLAG )
+        TW_FLAG ( type: esriFieldTypeInteger , alias: TW_FLAG )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMEN ( type: esriFieldTypeString , alias: SRC_COMMEN , length: 50 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        OFFSET ( type: esriFieldTypeString , alias: OFFSET , length: 1 )
+        STCONO ( type: esriFieldTypeString , alias: STCONO , length: 10 )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        RD_NO ( type: esriFieldTypeString , alias: RD_NO , length: 5 )
+        CNTY_MAINTAINED ( type: esriFieldTypeString , alias: CNTY_MAINTAINED , length: 1 )
+        STNALIST_STNA_ID ( type: esriFieldTypeInteger , alias: STNALIST_STNA_ID )
+        ATOMIC_L ( type: esriFieldTypeString , alias: ATOMIC_L , length: 25 )
+        ATOMIC_R ( type: esriFieldTypeString , alias: ATOMIC_R , length: 25 )
+        PBEAT_L ( type: esriFieldTypeString , alias: PBEAT_L , length: 25 )
+        PBEAT_R ( type: esriFieldTypeString , alias: PBEAT_R , length: 25 )
+        EMSZONE_L ( type: esriFieldTypeString , alias: EMSZONE_L , length: 25 )
+        EMSZONE_R ( type: esriFieldTypeString , alias: EMSZONE_R , length: 25 )
+        PAGENCY_L ( type: esriFieldTypeString , alias: PAGENCY_L , length: 25 )
+        PAGENCY_R ( type: esriFieldTypeString , alias: PAGENCY_R , length: 25 )
+        EMSAREA_L ( type: esriFieldTypeString , alias: EMSAREA_L , length: 25 )
+        EMSAREA_R ( type: esriFieldTypeString , alias: EMSAREA_R , length: 25 )
+        FIREZONE_L ( type: esriFieldTypeString , alias: FIREZONE_L , length: 25 )
+        FIREZONE_R ( type: esriFieldTypeString , alias: FIREZONE_R , length: 25 )
+        FIREMAP_L ( type: esriFieldTypeString , alias: FIREMAP_L , length: 25 )
+        FIREMAP_R ( type: esriFieldTypeString , alias: FIREMAP_R , length: 25 )
+        TBMPAGE_L ( type: esriFieldTypeString , alias: TBMPAGE_L , length: 25 )
+        TBMPAGE_R ( type: esriFieldTypeString , alias: TBMPAGE_R , length: 25 )
+        THAZARD_L ( type: esriFieldTypeString , alias: THAZARD_L , length: 25 )
+        THAZARD_R ( type: esriFieldTypeString , alias: THAZARD_R , length: 25 )
+        ROUTE_ID ( type: esriFieldTypeString , alias: ROUTE_ID , length: 50 )
+        LOW_MEASURE ( type: esriFieldTypeDouble , alias: LOW_MEASURE )
+        HI_MEASURE ( type: esriFieldTypeDouble , alias: HI_MEASURE )
+        LRS_REVERSE ( type: esriFieldTypeInteger , alias: LRS_REVERSE )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+
+    Layer: hwy_92 (27)
+    Name: hwy_92
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolyline
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3629660024375837E7
+        YMin: 4504508.319745604
+        XMax: -1.3597180277181705E7
+        YMax: 4525742.098075852
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSLSSolid
+                Color: [204, 204, 204, 255]
+                Width: 2 Label:
+            Description: Transparency: 80
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: true
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        FULL_NAME ( type: esriFieldTypeString , alias: FULL_NAME , length: 69 )
+        PREFIX ( type: esriFieldTypeString , alias: PREFIX , length: 6 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        TYPE ( type: esriFieldTypeString , alias: TYPE , length: 4 )
+        SUFFIX ( type: esriFieldTypeString , alias: SUFFIX , length: 6 )
+        STNA_ID ( type: esriFieldTypeInteger , alias: STNA_ID )
+        LENGTH ( type: esriFieldTypeDouble , alias: LENGTH )
+        FR_ADD_L ( type: esriFieldTypeInteger , alias: FR_ADD_L )
+        TO_ADD_L ( type: esriFieldTypeInteger , alias: TO_ADD_L )
+        FR_ADD_R ( type: esriFieldTypeInteger , alias: FR_ADD_R )
+        TO_ADD_R ( type: esriFieldTypeInteger , alias: TO_ADD_R )
+        ADD_100_LO ( type: esriFieldTypeInteger , alias: ADD_100_LO )
+        ADD_100_HI ( type: esriFieldTypeInteger , alias: ADD_100_HI )
+        CITY_L ( type: esriFieldTypeString , alias: CITY_L , length: 10 )
+        CITY_R ( type: esriFieldTypeString , alias: CITY_R , length: 10 )
+        ZIP_L ( type: esriFieldTypeInteger , alias: ZIP_L )
+        ZIP_R ( type: esriFieldTypeInteger , alias: ZIP_R )
+        ERROR_FLAG ( type: esriFieldTypeInteger , alias: ERROR_FLAG )
+        TW_FLAG ( type: esriFieldTypeInteger , alias: TW_FLAG )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMEN ( type: esriFieldTypeString , alias: SRC_COMMEN , length: 50 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        OFFSET ( type: esriFieldTypeString , alias: OFFSET , length: 1 )
+        STCONO ( type: esriFieldTypeString , alias: STCONO , length: 10 )
+        RD_NO ( type: esriFieldTypeString , alias: RD_NO , length: 5 )
+        CNTY_MAINTAINED ( type: esriFieldTypeString , alias: CNTY_MAINTAINED , length: 1 )
+        STNALIST_STNA_ID ( type: esriFieldTypeInteger , alias: STNALIST_STNA_ID )
+        ATOMIC_L ( type: esriFieldTypeString , alias: ATOMIC_L , length: 25 )
+        ATOMIC_R ( type: esriFieldTypeString , alias: ATOMIC_R , length: 25 )
+        PBEAT_L ( type: esriFieldTypeString , alias: PBEAT_L , length: 25 )
+        PBEAT_R ( type: esriFieldTypeString , alias: PBEAT_R , length: 25 )
+        EMSZONE_L ( type: esriFieldTypeString , alias: EMSZONE_L , length: 25 )
+        EMSZONE_R ( type: esriFieldTypeString , alias: EMSZONE_R , length: 25 )
+        PAGENCY_L ( type: esriFieldTypeString , alias: PAGENCY_L , length: 25 )
+        PAGENCY_R ( type: esriFieldTypeString , alias: PAGENCY_R , length: 25 )
+        EMSAREA_L ( type: esriFieldTypeString , alias: EMSAREA_L , length: 25 )
+        EMSAREA_R ( type: esriFieldTypeString , alias: EMSAREA_R , length: 25 )
+        FIREZONE_L ( type: esriFieldTypeString , alias: FIREZONE_L , length: 25 )
+        FIREZONE_R ( type: esriFieldTypeString , alias: FIREZONE_R , length: 25 )
+        FIREMAP_L ( type: esriFieldTypeString , alias: FIREMAP_L , length: 25 )
+        FIREMAP_R ( type: esriFieldTypeString , alias: FIREMAP_R , length: 25 )
+        TBMPAGE_L ( type: esriFieldTypeString , alias: TBMPAGE_L , length: 25 )
+        TBMPAGE_R ( type: esriFieldTypeString , alias: TBMPAGE_R , length: 25 )
+        THAZARD_L ( type: esriFieldTypeString , alias: THAZARD_L , length: 25 )
+        THAZARD_R ( type: esriFieldTypeString , alias: THAZARD_R , length: 25 )
+        ROUTE_ID ( type: esriFieldTypeString , alias: ROUTE_ID , length: 50 )
+        LOW_MEASURE ( type: esriFieldTypeDouble , alias: LOW_MEASURE )
+        HI_MEASURE ( type: esriFieldTypeDouble , alias: HI_MEASURE )
+        LRS_REVERSE ( type: esriFieldTypeInteger , alias: LRS_REVERSE )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+        STREET_ID ( type: esriFieldTypeOID , alias: STREET_ID )
+
+    Layer: hwy_1 (28)
+    Name: hwy_1
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolyline
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3639140757128648E7
+        YMin: 4453780.076583937
+        XMax: -1.3613670065883823E7
+        YMax: 4538396.464241125
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSLSSolid
+                Color: [204, 204, 204, 255]
+                Width: 2 Label:
+            Description: Transparency: 80
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: true
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        FULL_NAME ( type: esriFieldTypeString , alias: FULL_NAME , length: 69 )
+        PREFIX ( type: esriFieldTypeString , alias: PREFIX , length: 6 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        TYPE ( type: esriFieldTypeString , alias: TYPE , length: 4 )
+        SUFFIX ( type: esriFieldTypeString , alias: SUFFIX , length: 6 )
+        STNA_ID ( type: esriFieldTypeInteger , alias: STNA_ID )
+        LENGTH ( type: esriFieldTypeDouble , alias: LENGTH )
+        FR_ADD_L ( type: esriFieldTypeInteger , alias: FR_ADD_L )
+        TO_ADD_L ( type: esriFieldTypeInteger , alias: TO_ADD_L )
+        FR_ADD_R ( type: esriFieldTypeInteger , alias: FR_ADD_R )
+        TO_ADD_R ( type: esriFieldTypeInteger , alias: TO_ADD_R )
+        ADD_100_LO ( type: esriFieldTypeInteger , alias: ADD_100_LO )
+        ADD_100_HI ( type: esriFieldTypeInteger , alias: ADD_100_HI )
+        CITY_L ( type: esriFieldTypeString , alias: CITY_L , length: 10 )
+        CITY_R ( type: esriFieldTypeString , alias: CITY_R , length: 10 )
+        ZIP_L ( type: esriFieldTypeInteger , alias: ZIP_L )
+        ZIP_R ( type: esriFieldTypeInteger , alias: ZIP_R )
+        ERROR_FLAG ( type: esriFieldTypeInteger , alias: ERROR_FLAG )
+        TW_FLAG ( type: esriFieldTypeInteger , alias: TW_FLAG )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMEN ( type: esriFieldTypeString , alias: SRC_COMMEN , length: 50 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        OFFSET ( type: esriFieldTypeString , alias: OFFSET , length: 1 )
+        STCONO ( type: esriFieldTypeString , alias: STCONO , length: 10 )
+        RD_NO ( type: esriFieldTypeString , alias: RD_NO , length: 5 )
+        CNTY_MAINTAINED ( type: esriFieldTypeString , alias: CNTY_MAINTAINED , length: 1 )
+        STNALIST_STNA_ID ( type: esriFieldTypeInteger , alias: STNALIST_STNA_ID )
+        ATOMIC_L ( type: esriFieldTypeString , alias: ATOMIC_L , length: 25 )
+        ATOMIC_R ( type: esriFieldTypeString , alias: ATOMIC_R , length: 25 )
+        PBEAT_L ( type: esriFieldTypeString , alias: PBEAT_L , length: 25 )
+        PBEAT_R ( type: esriFieldTypeString , alias: PBEAT_R , length: 25 )
+        EMSZONE_L ( type: esriFieldTypeString , alias: EMSZONE_L , length: 25 )
+        EMSZONE_R ( type: esriFieldTypeString , alias: EMSZONE_R , length: 25 )
+        PAGENCY_L ( type: esriFieldTypeString , alias: PAGENCY_L , length: 25 )
+        PAGENCY_R ( type: esriFieldTypeString , alias: PAGENCY_R , length: 25 )
+        EMSAREA_L ( type: esriFieldTypeString , alias: EMSAREA_L , length: 25 )
+        EMSAREA_R ( type: esriFieldTypeString , alias: EMSAREA_R , length: 25 )
+        FIREZONE_L ( type: esriFieldTypeString , alias: FIREZONE_L , length: 25 )
+        FIREZONE_R ( type: esriFieldTypeString , alias: FIREZONE_R , length: 25 )
+        FIREMAP_L ( type: esriFieldTypeString , alias: FIREMAP_L , length: 25 )
+        FIREMAP_R ( type: esriFieldTypeString , alias: FIREMAP_R , length: 25 )
+        TBMPAGE_L ( type: esriFieldTypeString , alias: TBMPAGE_L , length: 25 )
+        TBMPAGE_R ( type: esriFieldTypeString , alias: TBMPAGE_R , length: 25 )
+        THAZARD_L ( type: esriFieldTypeString , alias: THAZARD_L , length: 25 )
+        THAZARD_R ( type: esriFieldTypeString , alias: THAZARD_R , length: 25 )
+        ROUTE_ID ( type: esriFieldTypeString , alias: ROUTE_ID , length: 50 )
+        LOW_MEASURE ( type: esriFieldTypeDouble , alias: LOW_MEASURE )
+        HI_MEASURE ( type: esriFieldTypeDouble , alias: HI_MEASURE )
+        LRS_REVERSE ( type: esriFieldTypeInteger , alias: LRS_REVERSE )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+        STREET_ID ( type: esriFieldTypeOID , alias: STREET_ID )
+
+    Layer: newCiti222 (29)
+    Name: newCiti222
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolygon
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 72220
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3639397159729557E7
+        YMin: 4453487.739442935
+        XMax: -1.358899697777642E7
+        YMax: 4539161.190699194
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSFSSolid
+                Color: [0, 0, 0, 0]
+                Outline:
+                    Style: esriSLSDash
+                    Color: [104, 104, 104, 255]
+                    Width: 1 Label:
+            Description: Transparency: 0
+        Labeling Info:
+            Label Placement: esriServerPolygonPlacementAlwaysHorizontal
+            Label Expression: [NAME]
+            Use Coded Values: true
+            Symbol:
+                Color: [0, 0, 0, 255]
+                Background Color: N/A
+                Outline Color: N/A
+                Vertical Alignment: baseline
+                Horizontal Alignment: left
+                Right to Left: false
+                Angle: 0
+                XOffset: 0
+                YOffset: 0
+                Size: 12
+                Font Family: Arial
+                Font Style: normal
+                Font Weight: bold
+                Font Decoration: none
+            Min. Scale: 0.0
+            Max. Scale: 0.0
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        OBJECTID ( type: esriFieldTypeOID , alias: OBJECTID )
+        Shape ( type: esriFieldTypeGeometry , alias: Shape )
+        CITY_BDRY_ ( type: esriFieldTypeDouble , alias: CITY_BDRY_ )
+        AREA ( type: esriFieldTypeDouble , alias: AREA )
+        PERIMETER ( type: esriFieldTypeDouble , alias: PERIMETER )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMEN ( type: esriFieldTypeString , alias: SRC_COMMEN , length: 50 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        UNINCORPOR ( type: esriFieldTypeSmallInteger , alias: UNINCORPOR )
+        ABBR ( type: esriFieldTypeString , alias: ABBR , length: 3 )
+        HANSEN_ARE ( type: esriFieldTypeString , alias: HANSEN_ARE , length: 50 )
+        Shape_Length ( type: esriFieldTypeDouble , alias: Shape_Length )
+        Shape_Area ( type: esriFieldTypeDouble , alias: Shape_Area )
+
+    Layer: hwy_380 (30)
+    Name: hwy_380
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolyline
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3629090058525236E7
+        YMin: 4526527.501997811
+        XMax: -1.3625818202957662E7
+        YMax: 4528244.055482217
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSLSSolid
+                Color: [204, 204, 204, 255]
+                Width: 2 Label:
+            Description: Transparency: 30
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: true
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        FULL_NAME ( type: esriFieldTypeString , alias: FULL_NAME , length: 69 )
+        PREFIX ( type: esriFieldTypeString , alias: PREFIX , length: 6 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        TYPE ( type: esriFieldTypeString , alias: TYPE , length: 4 )
+        SUFFIX ( type: esriFieldTypeString , alias: SUFFIX , length: 6 )
+        STNA_ID ( type: esriFieldTypeInteger , alias: STNA_ID )
+        LENGTH ( type: esriFieldTypeDouble , alias: LENGTH )
+        FR_ADD_L ( type: esriFieldTypeInteger , alias: FR_ADD_L )
+        TO_ADD_L ( type: esriFieldTypeInteger , alias: TO_ADD_L )
+        FR_ADD_R ( type: esriFieldTypeInteger , alias: FR_ADD_R )
+        TO_ADD_R ( type: esriFieldTypeInteger , alias: TO_ADD_R )
+        ADD_100_LO ( type: esriFieldTypeInteger , alias: ADD_100_LO )
+        ADD_100_HI ( type: esriFieldTypeInteger , alias: ADD_100_HI )
+        CITY_L ( type: esriFieldTypeString , alias: CITY_L , length: 10 )
+        CITY_R ( type: esriFieldTypeString , alias: CITY_R , length: 10 )
+        ZIP_L ( type: esriFieldTypeInteger , alias: ZIP_L )
+        ZIP_R ( type: esriFieldTypeInteger , alias: ZIP_R )
+        ERROR_FLAG ( type: esriFieldTypeInteger , alias: ERROR_FLAG )
+        TW_FLAG ( type: esriFieldTypeInteger , alias: TW_FLAG )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMEN ( type: esriFieldTypeString , alias: SRC_COMMEN , length: 50 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        OFFSET ( type: esriFieldTypeString , alias: OFFSET , length: 1 )
+        STCONO ( type: esriFieldTypeString , alias: STCONO , length: 10 )
+        RD_NO ( type: esriFieldTypeString , alias: RD_NO , length: 5 )
+        CNTY_MAINTAINED ( type: esriFieldTypeString , alias: CNTY_MAINTAINED , length: 1 )
+        STNALIST_STNA_ID ( type: esriFieldTypeInteger , alias: STNALIST_STNA_ID )
+        ATOMIC_L ( type: esriFieldTypeString , alias: ATOMIC_L , length: 25 )
+        ATOMIC_R ( type: esriFieldTypeString , alias: ATOMIC_R , length: 25 )
+        PBEAT_L ( type: esriFieldTypeString , alias: PBEAT_L , length: 25 )
+        PBEAT_R ( type: esriFieldTypeString , alias: PBEAT_R , length: 25 )
+        EMSZONE_L ( type: esriFieldTypeString , alias: EMSZONE_L , length: 25 )
+        EMSZONE_R ( type: esriFieldTypeString , alias: EMSZONE_R , length: 25 )
+        PAGENCY_L ( type: esriFieldTypeString , alias: PAGENCY_L , length: 25 )
+        PAGENCY_R ( type: esriFieldTypeString , alias: PAGENCY_R , length: 25 )
+        EMSAREA_L ( type: esriFieldTypeString , alias: EMSAREA_L , length: 25 )
+        EMSAREA_R ( type: esriFieldTypeString , alias: EMSAREA_R , length: 25 )
+        FIREZONE_L ( type: esriFieldTypeString , alias: FIREZONE_L , length: 25 )
+        FIREZONE_R ( type: esriFieldTypeString , alias: FIREZONE_R , length: 25 )
+        FIREMAP_L ( type: esriFieldTypeString , alias: FIREMAP_L , length: 25 )
+        FIREMAP_R ( type: esriFieldTypeString , alias: FIREMAP_R , length: 25 )
+        TBMPAGE_L ( type: esriFieldTypeString , alias: TBMPAGE_L , length: 25 )
+        TBMPAGE_R ( type: esriFieldTypeString , alias: TBMPAGE_R , length: 25 )
+        THAZARD_L ( type: esriFieldTypeString , alias: THAZARD_L , length: 25 )
+        THAZARD_R ( type: esriFieldTypeString , alias: THAZARD_R , length: 25 )
+        ROUTE_ID ( type: esriFieldTypeString , alias: ROUTE_ID , length: 50 )
+        LOW_MEASURE ( type: esriFieldTypeDouble , alias: LOW_MEASURE )
+        HI_MEASURE ( type: esriFieldTypeDouble , alias: HI_MEASURE )
+        LRS_REVERSE ( type: esriFieldTypeInteger , alias: LRS_REVERSE )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+        STREET_ID ( type: esriFieldTypeOID , alias: STREET_ID )
+
+    Layer: hwy_2800 (31)
+    Name: hwy_2800
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolyline
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3636438219542472E7
+        YMin: 4495405.5638515325
+        XMax: -1.3602212928798351E7
+        YMax: 4538936.639232356
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSLSSolid
+                Color: [204, 204, 204, 255]
+                Width: 2 Label:
+            Description: Transparency: 80
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: true
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        FULL_NAME ( type: esriFieldTypeString , alias: FULL_NAME , length: 69 )
+        PREFIX ( type: esriFieldTypeString , alias: PREFIX , length: 6 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        TYPE ( type: esriFieldTypeString , alias: TYPE , length: 4 )
+        SUFFIX ( type: esriFieldTypeString , alias: SUFFIX , length: 6 )
+        STNA_ID ( type: esriFieldTypeInteger , alias: STNA_ID )
+        LENGTH ( type: esriFieldTypeDouble , alias: LENGTH )
+        FR_ADD_L ( type: esriFieldTypeInteger , alias: FR_ADD_L )
+        TO_ADD_L ( type: esriFieldTypeInteger , alias: TO_ADD_L )
+        FR_ADD_R ( type: esriFieldTypeInteger , alias: FR_ADD_R )
+        TO_ADD_R ( type: esriFieldTypeInteger , alias: TO_ADD_R )
+        ADD_100_LO ( type: esriFieldTypeInteger , alias: ADD_100_LO )
+        ADD_100_HI ( type: esriFieldTypeInteger , alias: ADD_100_HI )
+        CITY_L ( type: esriFieldTypeString , alias: CITY_L , length: 10 )
+        CITY_R ( type: esriFieldTypeString , alias: CITY_R , length: 10 )
+        ZIP_L ( type: esriFieldTypeInteger , alias: ZIP_L )
+        ZIP_R ( type: esriFieldTypeInteger , alias: ZIP_R )
+        ERROR_FLAG ( type: esriFieldTypeInteger , alias: ERROR_FLAG )
+        TW_FLAG ( type: esriFieldTypeInteger , alias: TW_FLAG )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMEN ( type: esriFieldTypeString , alias: SRC_COMMEN , length: 50 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        OFFSET ( type: esriFieldTypeString , alias: OFFSET , length: 1 )
+        STCONO ( type: esriFieldTypeString , alias: STCONO , length: 10 )
+        RD_NO ( type: esriFieldTypeString , alias: RD_NO , length: 5 )
+        CNTY_MAINTAINED ( type: esriFieldTypeString , alias: CNTY_MAINTAINED , length: 1 )
+        STNALIST_STNA_ID ( type: esriFieldTypeInteger , alias: STNALIST_STNA_ID )
+        ATOMIC_L ( type: esriFieldTypeString , alias: ATOMIC_L , length: 25 )
+        ATOMIC_R ( type: esriFieldTypeString , alias: ATOMIC_R , length: 25 )
+        PBEAT_L ( type: esriFieldTypeString , alias: PBEAT_L , length: 25 )
+        PBEAT_R ( type: esriFieldTypeString , alias: PBEAT_R , length: 25 )
+        EMSZONE_L ( type: esriFieldTypeString , alias: EMSZONE_L , length: 25 )
+        EMSZONE_R ( type: esriFieldTypeString , alias: EMSZONE_R , length: 25 )
+        PAGENCY_L ( type: esriFieldTypeString , alias: PAGENCY_L , length: 25 )
+        PAGENCY_R ( type: esriFieldTypeString , alias: PAGENCY_R , length: 25 )
+        EMSAREA_L ( type: esriFieldTypeString , alias: EMSAREA_L , length: 25 )
+        EMSAREA_R ( type: esriFieldTypeString , alias: EMSAREA_R , length: 25 )
+        FIREZONE_L ( type: esriFieldTypeString , alias: FIREZONE_L , length: 25 )
+        FIREZONE_R ( type: esriFieldTypeString , alias: FIREZONE_R , length: 25 )
+        FIREMAP_L ( type: esriFieldTypeString , alias: FIREMAP_L , length: 25 )
+        FIREMAP_R ( type: esriFieldTypeString , alias: FIREMAP_R , length: 25 )
+        TBMPAGE_L ( type: esriFieldTypeString , alias: TBMPAGE_L , length: 25 )
+        TBMPAGE_R ( type: esriFieldTypeString , alias: TBMPAGE_R , length: 25 )
+        THAZARD_L ( type: esriFieldTypeString , alias: THAZARD_L , length: 25 )
+        THAZARD_R ( type: esriFieldTypeString , alias: THAZARD_R , length: 25 )
+        ROUTE_ID ( type: esriFieldTypeString , alias: ROUTE_ID , length: 50 )
+        LOW_MEASURE ( type: esriFieldTypeDouble , alias: LOW_MEASURE )
+        HI_MEASURE ( type: esriFieldTypeDouble , alias: HI_MEASURE )
+        LRS_REVERSE ( type: esriFieldTypeInteger , alias: LRS_REVERSE )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+        STREET_ID ( type: esriFieldTypeOID , alias: STREET_ID )
+
+    Layer: hwy_101 (32)
+    Name: hwy_101
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolyline
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3626433303794725E7
+        YMin: 4501858.263229677
+        XMax: -1.3595218375641907E7
+        YMax: 4538879.400750521
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSLSSolid
+                Color: [204, 204, 204, 255]
+                Width: 2 Label:
+            Description: Transparency: 80
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: true
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        FULL_NAME ( type: esriFieldTypeString , alias: FULL_NAME , length: 69 )
+        PREFIX ( type: esriFieldTypeString , alias: PREFIX , length: 6 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        TYPE ( type: esriFieldTypeString , alias: TYPE , length: 4 )
+        SUFFIX ( type: esriFieldTypeString , alias: SUFFIX , length: 6 )
+        STNA_ID ( type: esriFieldTypeInteger , alias: STNA_ID )
+        LENGTH ( type: esriFieldTypeDouble , alias: LENGTH )
+        FR_ADD_L ( type: esriFieldTypeInteger , alias: FR_ADD_L )
+        TO_ADD_L ( type: esriFieldTypeInteger , alias: TO_ADD_L )
+        FR_ADD_R ( type: esriFieldTypeInteger , alias: FR_ADD_R )
+        TO_ADD_R ( type: esriFieldTypeInteger , alias: TO_ADD_R )
+        ADD_100_LO ( type: esriFieldTypeInteger , alias: ADD_100_LO )
+        ADD_100_HI ( type: esriFieldTypeInteger , alias: ADD_100_HI )
+        CITY_L ( type: esriFieldTypeString , alias: CITY_L , length: 10 )
+        CITY_R ( type: esriFieldTypeString , alias: CITY_R , length: 10 )
+        ZIP_L ( type: esriFieldTypeInteger , alias: ZIP_L )
+        ZIP_R ( type: esriFieldTypeInteger , alias: ZIP_R )
+        ERROR_FLAG ( type: esriFieldTypeInteger , alias: ERROR_FLAG )
+        TW_FLAG ( type: esriFieldTypeInteger , alias: TW_FLAG )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMEN ( type: esriFieldTypeString , alias: SRC_COMMEN , length: 50 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        OFFSET ( type: esriFieldTypeString , alias: OFFSET , length: 1 )
+        STCONO ( type: esriFieldTypeString , alias: STCONO , length: 10 )
+        RD_NO ( type: esriFieldTypeString , alias: RD_NO , length: 5 )
+        CNTY_MAINTAINED ( type: esriFieldTypeString , alias: CNTY_MAINTAINED , length: 1 )
+        STNALIST_STNA_ID ( type: esriFieldTypeInteger , alias: STNALIST_STNA_ID )
+        ATOMIC_L ( type: esriFieldTypeString , alias: ATOMIC_L , length: 25 )
+        ATOMIC_R ( type: esriFieldTypeString , alias: ATOMIC_R , length: 25 )
+        PBEAT_L ( type: esriFieldTypeString , alias: PBEAT_L , length: 25 )
+        PBEAT_R ( type: esriFieldTypeString , alias: PBEAT_R , length: 25 )
+        EMSZONE_L ( type: esriFieldTypeString , alias: EMSZONE_L , length: 25 )
+        EMSZONE_R ( type: esriFieldTypeString , alias: EMSZONE_R , length: 25 )
+        PAGENCY_L ( type: esriFieldTypeString , alias: PAGENCY_L , length: 25 )
+        PAGENCY_R ( type: esriFieldTypeString , alias: PAGENCY_R , length: 25 )
+        EMSAREA_L ( type: esriFieldTypeString , alias: EMSAREA_L , length: 25 )
+        EMSAREA_R ( type: esriFieldTypeString , alias: EMSAREA_R , length: 25 )
+        FIREZONE_L ( type: esriFieldTypeString , alias: FIREZONE_L , length: 25 )
+        FIREZONE_R ( type: esriFieldTypeString , alias: FIREZONE_R , length: 25 )
+        FIREMAP_L ( type: esriFieldTypeString , alias: FIREMAP_L , length: 25 )
+        FIREMAP_R ( type: esriFieldTypeString , alias: FIREMAP_R , length: 25 )
+        TBMPAGE_L ( type: esriFieldTypeString , alias: TBMPAGE_L , length: 25 )
+        TBMPAGE_R ( type: esriFieldTypeString , alias: TBMPAGE_R , length: 25 )
+        THAZARD_L ( type: esriFieldTypeString , alias: THAZARD_L , length: 25 )
+        THAZARD_R ( type: esriFieldTypeString , alias: THAZARD_R , length: 25 )
+        ROUTE_ID ( type: esriFieldTypeString , alias: ROUTE_ID , length: 50 )
+        LOW_MEASURE ( type: esriFieldTypeDouble , alias: LOW_MEASURE )
+        HI_MEASURE ( type: esriFieldTypeDouble , alias: HI_MEASURE )
+        LRS_REVERSE ( type: esriFieldTypeInteger , alias: LRS_REVERSE )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+        STREET_ID ( type: esriFieldTypeOID , alias: STREET_ID )
+
+    Layer: SECONDARY_ROADS_CARTO (33)
+    Name: SECONDARY_ROADS_CARTO
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolyline
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3639076723035438E7
+        YMin: 4483342.444134523
+        XMax: -1.3594680077556629E7
+        YMax: 4539055.266159204
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSLSSolid
+                Color: [252, 245, 144, 255]
+                Width: 3 Label:
+            Description: Transparency: 10
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: true
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        FULL_NAME ( type: esriFieldTypeString , alias: FULL_NAME , length: 69 )
+        PREFIX ( type: esriFieldTypeString , alias: PREFIX , length: 6 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        TYPE ( type: esriFieldTypeString , alias: TYPE , length: 4 )
+        SUFFIX ( type: esriFieldTypeString , alias: SUFFIX , length: 6 )
+        STREET_ID ( type: esriFieldTypeOID , alias: STREET_ID )
+        STNA_ID ( type: esriFieldTypeInteger , alias: STNA_ID )
+        LENGTH ( type: esriFieldTypeDouble , alias: LENGTH )
+        FR_ADD_L ( type: esriFieldTypeInteger , alias: FR_ADD_L )
+        TO_ADD_L ( type: esriFieldTypeInteger , alias: TO_ADD_L )
+        FR_ADD_R ( type: esriFieldTypeInteger , alias: FR_ADD_R )
+        TO_ADD_R ( type: esriFieldTypeInteger , alias: TO_ADD_R )
+        ADD_100_LO ( type: esriFieldTypeInteger , alias: ADD_100_LO )
+        ADD_100_HI ( type: esriFieldTypeInteger , alias: ADD_100_HI )
+        CITY_L ( type: esriFieldTypeString , alias: CITY_L , length: 10 )
+        CITY_R ( type: esriFieldTypeString , alias: CITY_R , length: 10 )
+        ZIP_L ( type: esriFieldTypeInteger , alias: ZIP_L )
+        ZIP_R ( type: esriFieldTypeInteger , alias: ZIP_R )
+        ERROR_FLAG ( type: esriFieldTypeInteger , alias: ERROR_FLAG )
+        TW_FLAG ( type: esriFieldTypeInteger , alias: TW_FLAG )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMEN ( type: esriFieldTypeString , alias: SRC_COMMEN , length: 50 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        OFFSET ( type: esriFieldTypeString , alias: OFFSET , length: 1 )
+        STCONO ( type: esriFieldTypeString , alias: STCONO , length: 10 )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        RD_NO ( type: esriFieldTypeString , alias: RD_NO , length: 5 )
+        CNTY_MAINTAINED ( type: esriFieldTypeString , alias: CNTY_MAINTAINED , length: 1 )
+        STNALIST_STNA_ID ( type: esriFieldTypeInteger , alias: STNALIST_STNA_ID )
+        ATOMIC_L ( type: esriFieldTypeString , alias: ATOMIC_L , length: 25 )
+        ATOMIC_R ( type: esriFieldTypeString , alias: ATOMIC_R , length: 25 )
+        PBEAT_L ( type: esriFieldTypeString , alias: PBEAT_L , length: 25 )
+        PBEAT_R ( type: esriFieldTypeString , alias: PBEAT_R , length: 25 )
+        EMSZONE_L ( type: esriFieldTypeString , alias: EMSZONE_L , length: 25 )
+        EMSZONE_R ( type: esriFieldTypeString , alias: EMSZONE_R , length: 25 )
+        PAGENCY_L ( type: esriFieldTypeString , alias: PAGENCY_L , length: 25 )
+        PAGENCY_R ( type: esriFieldTypeString , alias: PAGENCY_R , length: 25 )
+        EMSAREA_L ( type: esriFieldTypeString , alias: EMSAREA_L , length: 25 )
+        EMSAREA_R ( type: esriFieldTypeString , alias: EMSAREA_R , length: 25 )
+        FIREZONE_L ( type: esriFieldTypeString , alias: FIREZONE_L , length: 25 )
+        FIREZONE_R ( type: esriFieldTypeString , alias: FIREZONE_R , length: 25 )
+        FIREMAP_L ( type: esriFieldTypeString , alias: FIREMAP_L , length: 25 )
+        FIREMAP_R ( type: esriFieldTypeString , alias: FIREMAP_R , length: 25 )
+        TBMPAGE_L ( type: esriFieldTypeString , alias: TBMPAGE_L , length: 25 )
+        TBMPAGE_R ( type: esriFieldTypeString , alias: TBMPAGE_R , length: 25 )
+        THAZARD_L ( type: esriFieldTypeString , alias: THAZARD_L , length: 25 )
+        THAZARD_R ( type: esriFieldTypeString , alias: THAZARD_R , length: 25 )
+        ROUTE_ID ( type: esriFieldTypeString , alias: ROUTE_ID , length: 50 )
+        LOW_MEASURE ( type: esriFieldTypeDouble , alias: LOW_MEASURE )
+        HI_MEASURE ( type: esriFieldTypeDouble , alias: HI_MEASURE )
+        LRS_REVERSE ( type: esriFieldTypeInteger , alias: LRS_REVERSE )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+
+    Layer: oceanBay (34)
+    Name: oceanBay
+
+    Display Field: LANDNAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolygon
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3845545412703827E7
+        YMin: 4406932.085729125
+        XMax: -1.349735722484334E7
+        YMax: 4703754.023343802
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSFSSolid
+                Color: [190, 210, 255, 255]
+                Outline:
+                    Style: esriSLSSolid
+                    Color: [0, 0, 0, 0]
+                    Width: 0 Label:
+            Description: Transparency: 20
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        COUNTY ( type: esriFieldTypeString , alias: COUNTY , length: 5 )
+        CFCC ( type: esriFieldTypeString , alias: CFCC , length: 3 )
+        LANDNAME ( type: esriFieldTypeString , alias: LANDNAME , length: 30 )
+        LANDPOLY ( type: esriFieldTypeInteger , alias: LANDPOLY )
+        GAVPRIMARYKEY ( type: esriFieldTypeInteger , alias: GAVPRIMARYKEY )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        ID1 ( type: esriFieldTypeInteger , alias: ID1 )
+        OBJECTID ( type: esriFieldTypeOID , alias: OBJECTID )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+        GEOMETRY_Area ( type: esriFieldTypeDouble , alias: GEOMETRY_Area )
+
+    Layer: SECOND_SHADOW (35)
+    Name: SECOND_SHADOW
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolyline
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3637390487858312E7
+        YMin: 4483378.518885734
+        XMax: -1.3594680077556629E7
+        YMax: 4539055.266159204
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSLSSolid
+                Color: [225, 225, 225, 255]
+                Width: 4 Label:
+            Description: Transparency: 10
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: true
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        FULL_NAME ( type: esriFieldTypeString , alias: FULL_NAME , length: 69 )
+        PREFIX ( type: esriFieldTypeString , alias: PREFIX , length: 6 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        TYPE ( type: esriFieldTypeString , alias: TYPE , length: 4 )
+        SUFFIX ( type: esriFieldTypeString , alias: SUFFIX , length: 6 )
+        STREET_ID ( type: esriFieldTypeOID , alias: STREET_ID )
+        STNA_ID ( type: esriFieldTypeInteger , alias: STNA_ID )
+        LENGTH ( type: esriFieldTypeDouble , alias: LENGTH )
+        FR_ADD_L ( type: esriFieldTypeInteger , alias: FR_ADD_L )
+        TO_ADD_L ( type: esriFieldTypeInteger , alias: TO_ADD_L )
+        FR_ADD_R ( type: esriFieldTypeInteger , alias: FR_ADD_R )
+        TO_ADD_R ( type: esriFieldTypeInteger , alias: TO_ADD_R )
+        ADD_100_LO ( type: esriFieldTypeInteger , alias: ADD_100_LO )
+        ADD_100_HI ( type: esriFieldTypeInteger , alias: ADD_100_HI )
+        CITY_L ( type: esriFieldTypeString , alias: CITY_L , length: 10 )
+        CITY_R ( type: esriFieldTypeString , alias: CITY_R , length: 10 )
+        ZIP_L ( type: esriFieldTypeInteger , alias: ZIP_L )
+        ZIP_R ( type: esriFieldTypeInteger , alias: ZIP_R )
+        ERROR_FLAG ( type: esriFieldTypeInteger , alias: ERROR_FLAG )
+        TW_FLAG ( type: esriFieldTypeInteger , alias: TW_FLAG )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMEN ( type: esriFieldTypeString , alias: SRC_COMMEN , length: 50 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        OFFSET ( type: esriFieldTypeString , alias: OFFSET , length: 1 )
+        STCONO ( type: esriFieldTypeString , alias: STCONO , length: 10 )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        RD_NO ( type: esriFieldTypeString , alias: RD_NO , length: 5 )
+        CNTY_MAINTAINED ( type: esriFieldTypeString , alias: CNTY_MAINTAINED , length: 1 )
+        STNALIST_STNA_ID ( type: esriFieldTypeInteger , alias: STNALIST_STNA_ID )
+        ATOMIC_L ( type: esriFieldTypeString , alias: ATOMIC_L , length: 25 )
+        ATOMIC_R ( type: esriFieldTypeString , alias: ATOMIC_R , length: 25 )
+        PBEAT_L ( type: esriFieldTypeString , alias: PBEAT_L , length: 25 )
+        PBEAT_R ( type: esriFieldTypeString , alias: PBEAT_R , length: 25 )
+        EMSZONE_L ( type: esriFieldTypeString , alias: EMSZONE_L , length: 25 )
+        EMSZONE_R ( type: esriFieldTypeString , alias: EMSZONE_R , length: 25 )
+        PAGENCY_L ( type: esriFieldTypeString , alias: PAGENCY_L , length: 25 )
+        PAGENCY_R ( type: esriFieldTypeString , alias: PAGENCY_R , length: 25 )
+        EMSAREA_L ( type: esriFieldTypeString , alias: EMSAREA_L , length: 25 )
+        EMSAREA_R ( type: esriFieldTypeString , alias: EMSAREA_R , length: 25 )
+        FIREZONE_L ( type: esriFieldTypeString , alias: FIREZONE_L , length: 25 )
+        FIREZONE_R ( type: esriFieldTypeString , alias: FIREZONE_R , length: 25 )
+        FIREMAP_L ( type: esriFieldTypeString , alias: FIREMAP_L , length: 25 )
+        FIREMAP_R ( type: esriFieldTypeString , alias: FIREMAP_R , length: 25 )
+        TBMPAGE_L ( type: esriFieldTypeString , alias: TBMPAGE_L , length: 25 )
+        TBMPAGE_R ( type: esriFieldTypeString , alias: TBMPAGE_R , length: 25 )
+        THAZARD_L ( type: esriFieldTypeString , alias: THAZARD_L , length: 25 )
+        THAZARD_R ( type: esriFieldTypeString , alias: THAZARD_R , length: 25 )
+        ROUTE_ID ( type: esriFieldTypeString , alias: ROUTE_ID , length: 50 )
+        LOW_MEASURE ( type: esriFieldTypeDouble , alias: LOW_MEASURE )
+        HI_MEASURE ( type: esriFieldTypeDouble , alias: HI_MEASURE )
+        LRS_REVERSE ( type: esriFieldTypeInteger , alias: LRS_REVERSE )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+
+    Layer: streams (36)
+    Name: streams
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolyline
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 72250
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3639250074738692E7
+        YMin: 4453507.803305481
+        XMax: -1.3593449058916584E7
+        YMax: 4538006.7621505745
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSLSSolid
+                Color: [190, 210, 255, 255]
+                Width: 1 Label:
+            Description: Transparency: 30
+        Labeling Info:
+            Label Placement: esriServerLinePlacementAboveAlong
+            Label Expression: [NAME]
+            Use Coded Values: true
+            Symbol:
+                Color: [115, 178, 255, 255]
+                Background Color: N/A
+                Outline Color: N/A
+                Vertical Alignment: baseline
+                Horizontal Alignment: left
+                Right to Left: false
+                Angle: 0
+                XOffset: 0
+                YOffset: 0
+                Size: 6
+                Font Family: Arial
+                Font Style: italic
+                Font Weight: normal
+                Font Decoration: none
+            Min. Scale: 0.0
+            Max. Scale: 0.0
+
+    HasZ: false
+
+    HasM: true
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        ROUTE_ID ( type: esriFieldTypeString , alias: ROUTE_ID , length: 50 )
+        LOW_MEASURE ( type: esriFieldTypeDouble , alias: LOW_MEASURE )
+        HI_MEASURE ( type: esriFieldTypeDouble , alias: HI_MEASURE )
+        USGS_BLUELINE ( type: esriFieldTypeSmallInteger , alias: USGS_BLUELINE )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        ID ( type: esriFieldTypeOID , alias: ID )
+        LRS_ORDER_ID ( type: esriFieldTypeDouble , alias: LRS_ORDER_ID )
+        LRS_REVERSE ( type: esriFieldTypeDouble , alias: LRS_REVERSE )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+
+    Layer: citiBig (37)
+    Name: citiBig
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolygon
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 18057
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3639392596275987E7
+        YMin: 4453489.268367867
+        XMax: -1.3592825151396899E7
+        YMax: 4539096.4480449185
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSFSSolid
+                Color: [0, 0, 0, 0]
+                Outline:
+                    Style: esriSLSSolid
+                    Color: [0, 0, 0, 0]
+                    Width: 0 Label:
+            Description: Transparency: 0
+        Labeling Info:
+            Label Placement: esriServerPolygonPlacementAlwaysHorizontal
+            Label Expression: [NAME]
+            Use Coded Values: true
+            Symbol:
+                Color: [204, 204, 204, 255]
+                Background Color: N/A
+                Outline Color: N/A
+                Vertical Alignment: baseline
+                Horizontal Alignment: left
+                Right to Left: false
+                Angle: 0
+                XOffset: 0
+                YOffset: 0
+                Size: 28
+                Font Family: Arial
+                Font Style: normal
+                Font Weight: normal
+                Font Decoration: none
+            Min. Scale: 0.0
+            Max. Scale: 0.0
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        CITY_BDRY_ID ( type: esriFieldTypeOID , alias: CITY_BDRY_ID )
+        AREA ( type: esriFieldTypeDouble , alias: AREA )
+        PERIMETER ( type: esriFieldTypeDouble , alias: PERIMETER )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMENT ( type: esriFieldTypeString , alias: SRC_COMMENT , length: 50 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        UNINCORPORATED ( type: esriFieldTypeSmallInteger , alias: UNINCORPORATED )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        ABBR ( type: esriFieldTypeString , alias: ABBR , length: 3 )
+        HANSEN_AREA ( type: esriFieldTypeString , alias: HANSEN_AREA , length: 50 )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+        GEOMETRY_Area ( type: esriFieldTypeDouble , alias: GEOMETRY_Area )
+
+    Layer: lakes (38)
+    Name: lakes
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolygon
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.363824574370715E7
+        YMin: 4454978.205283954
+        XMax: -1.3595737968078248E7
+        YMax: 4539608.390940473
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSFSSolid
+                Color: [190, 210, 255, 255]
+                Outline:
+                    Style: esriSLSSolid
+                    Color: [0, 0, 0, 0]
+                    Width: 0 Label:
+            Description: Transparency: 0
+        Labeling Info:
+            Label Placement: esriServerPolygonPlacementAlwaysHorizontal
+            Label Expression: [NAME]
+            Use Coded Values: true
+            Symbol:
+                Color: [115, 178, 255, 255]
+                Background Color: N/A
+                Outline Color: N/A
+                Vertical Alignment: baseline
+                Horizontal Alignment: left
+                Right to Left: false
+                Angle: 0
+                XOffset: 0
+                YOffset: 0
+                Size: 8
+                Font Family: Arial
+                Font Style: italic
+                Font Weight: bold
+                Font Decoration: none
+            Min. Scale: 36120.0
+            Max. Scale: 0.0
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        ID ( type: esriFieldTypeOID , alias: ID )
+        AREA ( type: esriFieldTypeDouble , alias: AREA )
+        PERIMETER ( type: esriFieldTypeDouble , alias: PERIMETER )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMENT ( type: esriFieldTypeString , alias: SRC_COMMENT , length: 50 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+        GEOMETRY_Area ( type: esriFieldTypeDouble , alias: GEOMETRY_Area )
+
+    Layer: streets72224 (39)
+    Name: streets72224
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolyline
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 72230
+
+    Max Scale: 36115
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3639286210701898E7
+        YMin: 4453777.121397398
+        XMax: -1.3593384519185137E7
+        YMax: 4539105.184711414
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSLSSolid
+                Color: [225, 225, 225, 255]
+                Width: 1 Label:
+            Description: Transparency: 0
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: true
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        FULL_NAME ( type: esriFieldTypeString , alias: FULL_NAME , length: 69 )
+        PREFIX ( type: esriFieldTypeString , alias: PREFIX , length: 6 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        TYPE ( type: esriFieldTypeString , alias: TYPE , length: 4 )
+        SUFFIX ( type: esriFieldTypeString , alias: SUFFIX , length: 6 )
+        STREET_ID ( type: esriFieldTypeOID , alias: STREET_ID )
+        STNA_ID ( type: esriFieldTypeInteger , alias: STNA_ID )
+        LENGTH ( type: esriFieldTypeDouble , alias: LENGTH )
+        FR_ADD_L ( type: esriFieldTypeInteger , alias: FR_ADD_L )
+        TO_ADD_L ( type: esriFieldTypeInteger , alias: TO_ADD_L )
+        FR_ADD_R ( type: esriFieldTypeInteger , alias: FR_ADD_R )
+        TO_ADD_R ( type: esriFieldTypeInteger , alias: TO_ADD_R )
+        ADD_100_LO ( type: esriFieldTypeInteger , alias: ADD_100_LO )
+        ADD_100_HI ( type: esriFieldTypeInteger , alias: ADD_100_HI )
+        CITY_L ( type: esriFieldTypeString , alias: CITY_L , length: 10 )
+        CITY_R ( type: esriFieldTypeString , alias: CITY_R , length: 10 )
+        ZIP_L ( type: esriFieldTypeInteger , alias: ZIP_L )
+        ZIP_R ( type: esriFieldTypeInteger , alias: ZIP_R )
+        ERROR_FLAG ( type: esriFieldTypeInteger , alias: ERROR_FLAG )
+        TW_FLAG ( type: esriFieldTypeInteger , alias: TW_FLAG )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMEN ( type: esriFieldTypeString , alias: SRC_COMMEN , length: 50 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        OFFSET ( type: esriFieldTypeString , alias: OFFSET , length: 1 )
+        STCONO ( type: esriFieldTypeString , alias: STCONO , length: 10 )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        RD_NO ( type: esriFieldTypeString , alias: RD_NO , length: 5 )
+        CNTY_MAINTAINED ( type: esriFieldTypeString , alias: CNTY_MAINTAINED , length: 1 )
+        STNALIST_STNA_ID ( type: esriFieldTypeInteger , alias: STNALIST_STNA_ID )
+        ATOMIC_L ( type: esriFieldTypeString , alias: ATOMIC_L , length: 25 )
+        ATOMIC_R ( type: esriFieldTypeString , alias: ATOMIC_R , length: 25 )
+        PBEAT_L ( type: esriFieldTypeString , alias: PBEAT_L , length: 25 )
+        PBEAT_R ( type: esriFieldTypeString , alias: PBEAT_R , length: 25 )
+        EMSZONE_L ( type: esriFieldTypeString , alias: EMSZONE_L , length: 25 )
+        EMSZONE_R ( type: esriFieldTypeString , alias: EMSZONE_R , length: 25 )
+        PAGENCY_L ( type: esriFieldTypeString , alias: PAGENCY_L , length: 25 )
+        PAGENCY_R ( type: esriFieldTypeString , alias: PAGENCY_R , length: 25 )
+        EMSAREA_L ( type: esriFieldTypeString , alias: EMSAREA_L , length: 25 )
+        EMSAREA_R ( type: esriFieldTypeString , alias: EMSAREA_R , length: 25 )
+        FIREZONE_L ( type: esriFieldTypeString , alias: FIREZONE_L , length: 25 )
+        FIREZONE_R ( type: esriFieldTypeString , alias: FIREZONE_R , length: 25 )
+        FIREMAP_L ( type: esriFieldTypeString , alias: FIREMAP_L , length: 25 )
+        FIREMAP_R ( type: esriFieldTypeString , alias: FIREMAP_R , length: 25 )
+        TBMPAGE_L ( type: esriFieldTypeString , alias: TBMPAGE_L , length: 25 )
+        TBMPAGE_R ( type: esriFieldTypeString , alias: TBMPAGE_R , length: 25 )
+        THAZARD_L ( type: esriFieldTypeString , alias: THAZARD_L , length: 25 )
+        THAZARD_R ( type: esriFieldTypeString , alias: THAZARD_R , length: 25 )
+        ROUTE_ID ( type: esriFieldTypeString , alias: ROUTE_ID , length: 50 )
+        LOW_MEASURE ( type: esriFieldTypeDouble , alias: LOW_MEASURE )
+        HI_MEASURE ( type: esriFieldTypeDouble , alias: HI_MEASURE )
+        LRS_REVERSE ( type: esriFieldTypeInteger , alias: LRS_REVERSE )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+
+    Layer: stLabels36112 (40)
+    Name: stLabels36112
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolyline
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 36115
+
+    Max Scale: 36111.909643
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3639286210701898E7
+        YMin: 4453777.121397398
+        XMax: -1.3593384519185133E7
+        YMax: 4539105.184711414
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSLSSolid
+                Color: [0, 0, 0, 0]
+                Width: 1 Label:
+            Description: Transparency: 0
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: true
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        FULL_NAME ( type: esriFieldTypeString , alias: FULL_NAME , length: 69 )
+        PREFIX ( type: esriFieldTypeString , alias: PREFIX , length: 6 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        TYPE ( type: esriFieldTypeString , alias: TYPE , length: 4 )
+        SUFFIX ( type: esriFieldTypeString , alias: SUFFIX , length: 6 )
+        STREET_ID ( type: esriFieldTypeOID , alias: STREET_ID )
+        STNA_ID ( type: esriFieldTypeInteger , alias: STNA_ID )
+        LENGTH ( type: esriFieldTypeDouble , alias: LENGTH )
+        FR_ADD_L ( type: esriFieldTypeInteger , alias: FR_ADD_L )
+        TO_ADD_L ( type: esriFieldTypeInteger , alias: TO_ADD_L )
+        FR_ADD_R ( type: esriFieldTypeInteger , alias: FR_ADD_R )
+        TO_ADD_R ( type: esriFieldTypeInteger , alias: TO_ADD_R )
+        ADD_100_LO ( type: esriFieldTypeInteger , alias: ADD_100_LO )
+        ADD_100_HI ( type: esriFieldTypeInteger , alias: ADD_100_HI )
+        CITY_L ( type: esriFieldTypeString , alias: CITY_L , length: 10 )
+        CITY_R ( type: esriFieldTypeString , alias: CITY_R , length: 10 )
+        ZIP_L ( type: esriFieldTypeInteger , alias: ZIP_L )
+        ZIP_R ( type: esriFieldTypeInteger , alias: ZIP_R )
+        ERROR_FLAG ( type: esriFieldTypeInteger , alias: ERROR_FLAG )
+        TW_FLAG ( type: esriFieldTypeInteger , alias: TW_FLAG )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMEN ( type: esriFieldTypeString , alias: SRC_COMMEN , length: 50 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        OFFSET ( type: esriFieldTypeString , alias: OFFSET , length: 1 )
+        STCONO ( type: esriFieldTypeString , alias: STCONO , length: 10 )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        RD_NO ( type: esriFieldTypeString , alias: RD_NO , length: 5 )
+        CNTY_MAINTAINED ( type: esriFieldTypeString , alias: CNTY_MAINTAINED , length: 1 )
+        STNALIST_STNA_ID ( type: esriFieldTypeInteger , alias: STNALIST_STNA_ID )
+        ATOMIC_L ( type: esriFieldTypeString , alias: ATOMIC_L , length: 25 )
+        ATOMIC_R ( type: esriFieldTypeString , alias: ATOMIC_R , length: 25 )
+        PBEAT_L ( type: esriFieldTypeString , alias: PBEAT_L , length: 25 )
+        PBEAT_R ( type: esriFieldTypeString , alias: PBEAT_R , length: 25 )
+        EMSZONE_L ( type: esriFieldTypeString , alias: EMSZONE_L , length: 25 )
+        EMSZONE_R ( type: esriFieldTypeString , alias: EMSZONE_R , length: 25 )
+        PAGENCY_L ( type: esriFieldTypeString , alias: PAGENCY_L , length: 25 )
+        PAGENCY_R ( type: esriFieldTypeString , alias: PAGENCY_R , length: 25 )
+        EMSAREA_L ( type: esriFieldTypeString , alias: EMSAREA_L , length: 25 )
+        EMSAREA_R ( type: esriFieldTypeString , alias: EMSAREA_R , length: 25 )
+        FIREZONE_L ( type: esriFieldTypeString , alias: FIREZONE_L , length: 25 )
+        FIREZONE_R ( type: esriFieldTypeString , alias: FIREZONE_R , length: 25 )
+        FIREMAP_L ( type: esriFieldTypeString , alias: FIREMAP_L , length: 25 )
+        FIREMAP_R ( type: esriFieldTypeString , alias: FIREMAP_R , length: 25 )
+        TBMPAGE_L ( type: esriFieldTypeString , alias: TBMPAGE_L , length: 25 )
+        TBMPAGE_R ( type: esriFieldTypeString , alias: TBMPAGE_R , length: 25 )
+        THAZARD_L ( type: esriFieldTypeString , alias: THAZARD_L , length: 25 )
+        THAZARD_R ( type: esriFieldTypeString , alias: THAZARD_R , length: 25 )
+        ROUTE_ID ( type: esriFieldTypeString , alias: ROUTE_ID , length: 50 )
+        LOW_MEASURE ( type: esriFieldTypeDouble , alias: LOW_MEASURE )
+        HI_MEASURE ( type: esriFieldTypeDouble , alias: HI_MEASURE )
+        LRS_REVERSE ( type: esriFieldTypeInteger , alias: LRS_REVERSE )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+
+    Layer: stLabels18056 (41)
+    Name: stLabels18056
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolyline
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 18057
+
+    Max Scale: 9030
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3639286210701898E7
+        YMin: 4453777.121397398
+        XMax: -1.3593384519185137E7
+        YMax: 4539105.184711414
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSLSSolid
+                Color: [0, 0, 0, 0]
+                Width: 1 Label:
+            Description: Transparency: 0
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: true
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        FULL_NAME ( type: esriFieldTypeString , alias: FULL_NAME , length: 69 )
+        PREFIX ( type: esriFieldTypeString , alias: PREFIX , length: 6 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        TYPE ( type: esriFieldTypeString , alias: TYPE , length: 4 )
+        SUFFIX ( type: esriFieldTypeString , alias: SUFFIX , length: 6 )
+        STREET_ID ( type: esriFieldTypeOID , alias: STREET_ID )
+        STNA_ID ( type: esriFieldTypeInteger , alias: STNA_ID )
+        LENGTH ( type: esriFieldTypeDouble , alias: LENGTH )
+        FR_ADD_L ( type: esriFieldTypeInteger , alias: FR_ADD_L )
+        TO_ADD_L ( type: esriFieldTypeInteger , alias: TO_ADD_L )
+        FR_ADD_R ( type: esriFieldTypeInteger , alias: FR_ADD_R )
+        TO_ADD_R ( type: esriFieldTypeInteger , alias: TO_ADD_R )
+        ADD_100_LO ( type: esriFieldTypeInteger , alias: ADD_100_LO )
+        ADD_100_HI ( type: esriFieldTypeInteger , alias: ADD_100_HI )
+        CITY_L ( type: esriFieldTypeString , alias: CITY_L , length: 10 )
+        CITY_R ( type: esriFieldTypeString , alias: CITY_R , length: 10 )
+        ZIP_L ( type: esriFieldTypeInteger , alias: ZIP_L )
+        ZIP_R ( type: esriFieldTypeInteger , alias: ZIP_R )
+        ERROR_FLAG ( type: esriFieldTypeInteger , alias: ERROR_FLAG )
+        TW_FLAG ( type: esriFieldTypeInteger , alias: TW_FLAG )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMEN ( type: esriFieldTypeString , alias: SRC_COMMEN , length: 50 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        OFFSET ( type: esriFieldTypeString , alias: OFFSET , length: 1 )
+        STCONO ( type: esriFieldTypeString , alias: STCONO , length: 10 )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        RD_NO ( type: esriFieldTypeString , alias: RD_NO , length: 5 )
+        CNTY_MAINTAINED ( type: esriFieldTypeString , alias: CNTY_MAINTAINED , length: 1 )
+        STNALIST_STNA_ID ( type: esriFieldTypeInteger , alias: STNALIST_STNA_ID )
+        ATOMIC_L ( type: esriFieldTypeString , alias: ATOMIC_L , length: 25 )
+        ATOMIC_R ( type: esriFieldTypeString , alias: ATOMIC_R , length: 25 )
+        PBEAT_L ( type: esriFieldTypeString , alias: PBEAT_L , length: 25 )
+        PBEAT_R ( type: esriFieldTypeString , alias: PBEAT_R , length: 25 )
+        EMSZONE_L ( type: esriFieldTypeString , alias: EMSZONE_L , length: 25 )
+        EMSZONE_R ( type: esriFieldTypeString , alias: EMSZONE_R , length: 25 )
+        PAGENCY_L ( type: esriFieldTypeString , alias: PAGENCY_L , length: 25 )
+        PAGENCY_R ( type: esriFieldTypeString , alias: PAGENCY_R , length: 25 )
+        EMSAREA_L ( type: esriFieldTypeString , alias: EMSAREA_L , length: 25 )
+        EMSAREA_R ( type: esriFieldTypeString , alias: EMSAREA_R , length: 25 )
+        FIREZONE_L ( type: esriFieldTypeString , alias: FIREZONE_L , length: 25 )
+        FIREZONE_R ( type: esriFieldTypeString , alias: FIREZONE_R , length: 25 )
+        FIREMAP_L ( type: esriFieldTypeString , alias: FIREMAP_L , length: 25 )
+        FIREMAP_R ( type: esriFieldTypeString , alias: FIREMAP_R , length: 25 )
+        TBMPAGE_L ( type: esriFieldTypeString , alias: TBMPAGE_L , length: 25 )
+        TBMPAGE_R ( type: esriFieldTypeString , alias: TBMPAGE_R , length: 25 )
+        THAZARD_L ( type: esriFieldTypeString , alias: THAZARD_L , length: 25 )
+        THAZARD_R ( type: esriFieldTypeString , alias: THAZARD_R , length: 25 )
+        ROUTE_ID ( type: esriFieldTypeString , alias: ROUTE_ID , length: 50 )
+        LOW_MEASURE ( type: esriFieldTypeDouble , alias: LOW_MEASURE )
+        HI_MEASURE ( type: esriFieldTypeDouble , alias: HI_MEASURE )
+        LRS_REVERSE ( type: esriFieldTypeInteger , alias: LRS_REVERSE )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+
+    Layer: stLabels9028 (42)
+    Name: stLabels9028
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolyline
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 9029
+
+    Max Scale: 2260
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3639286210701898E7
+        YMin: 4453777.121397398
+        XMax: -1.3593384519185137E7
+        YMax: 4539105.184711414
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSLSSolid
+                Color: [0, 0, 0, 0]
+                Width: 1 Label:
+            Description: Transparency: 0
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: true
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        FULL_NAME ( type: esriFieldTypeString , alias: FULL_NAME , length: 69 )
+        PREFIX ( type: esriFieldTypeString , alias: PREFIX , length: 6 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        TYPE ( type: esriFieldTypeString , alias: TYPE , length: 4 )
+        SUFFIX ( type: esriFieldTypeString , alias: SUFFIX , length: 6 )
+        STREET_ID ( type: esriFieldTypeOID , alias: STREET_ID )
+        STNA_ID ( type: esriFieldTypeInteger , alias: STNA_ID )
+        LENGTH ( type: esriFieldTypeDouble , alias: LENGTH )
+        FR_ADD_L ( type: esriFieldTypeInteger , alias: FR_ADD_L )
+        TO_ADD_L ( type: esriFieldTypeInteger , alias: TO_ADD_L )
+        FR_ADD_R ( type: esriFieldTypeInteger , alias: FR_ADD_R )
+        TO_ADD_R ( type: esriFieldTypeInteger , alias: TO_ADD_R )
+        ADD_100_LO ( type: esriFieldTypeInteger , alias: ADD_100_LO )
+        ADD_100_HI ( type: esriFieldTypeInteger , alias: ADD_100_HI )
+        CITY_L ( type: esriFieldTypeString , alias: CITY_L , length: 10 )
+        CITY_R ( type: esriFieldTypeString , alias: CITY_R , length: 10 )
+        ZIP_L ( type: esriFieldTypeInteger , alias: ZIP_L )
+        ZIP_R ( type: esriFieldTypeInteger , alias: ZIP_R )
+        ERROR_FLAG ( type: esriFieldTypeInteger , alias: ERROR_FLAG )
+        TW_FLAG ( type: esriFieldTypeInteger , alias: TW_FLAG )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMEN ( type: esriFieldTypeString , alias: SRC_COMMEN , length: 50 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        OFFSET ( type: esriFieldTypeString , alias: OFFSET , length: 1 )
+        STCONO ( type: esriFieldTypeString , alias: STCONO , length: 10 )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        RD_NO ( type: esriFieldTypeString , alias: RD_NO , length: 5 )
+        CNTY_MAINTAINED ( type: esriFieldTypeString , alias: CNTY_MAINTAINED , length: 1 )
+        STNALIST_STNA_ID ( type: esriFieldTypeInteger , alias: STNALIST_STNA_ID )
+        ATOMIC_L ( type: esriFieldTypeString , alias: ATOMIC_L , length: 25 )
+        ATOMIC_R ( type: esriFieldTypeString , alias: ATOMIC_R , length: 25 )
+        PBEAT_L ( type: esriFieldTypeString , alias: PBEAT_L , length: 25 )
+        PBEAT_R ( type: esriFieldTypeString , alias: PBEAT_R , length: 25 )
+        EMSZONE_L ( type: esriFieldTypeString , alias: EMSZONE_L , length: 25 )
+        EMSZONE_R ( type: esriFieldTypeString , alias: EMSZONE_R , length: 25 )
+        PAGENCY_L ( type: esriFieldTypeString , alias: PAGENCY_L , length: 25 )
+        PAGENCY_R ( type: esriFieldTypeString , alias: PAGENCY_R , length: 25 )
+        EMSAREA_L ( type: esriFieldTypeString , alias: EMSAREA_L , length: 25 )
+        EMSAREA_R ( type: esriFieldTypeString , alias: EMSAREA_R , length: 25 )
+        FIREZONE_L ( type: esriFieldTypeString , alias: FIREZONE_L , length: 25 )
+        FIREZONE_R ( type: esriFieldTypeString , alias: FIREZONE_R , length: 25 )
+        FIREMAP_L ( type: esriFieldTypeString , alias: FIREMAP_L , length: 25 )
+        FIREMAP_R ( type: esriFieldTypeString , alias: FIREMAP_R , length: 25 )
+        TBMPAGE_L ( type: esriFieldTypeString , alias: TBMPAGE_L , length: 25 )
+        TBMPAGE_R ( type: esriFieldTypeString , alias: TBMPAGE_R , length: 25 )
+        THAZARD_L ( type: esriFieldTypeString , alias: THAZARD_L , length: 25 )
+        THAZARD_R ( type: esriFieldTypeString , alias: THAZARD_R , length: 25 )
+        ROUTE_ID ( type: esriFieldTypeString , alias: ROUTE_ID , length: 50 )
+        LOW_MEASURE ( type: esriFieldTypeDouble , alias: LOW_MEASURE )
+        HI_MEASURE ( type: esriFieldTypeDouble , alias: HI_MEASURE )
+        LRS_REVERSE ( type: esriFieldTypeInteger , alias: LRS_REVERSE )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+
+    Layer: stLabels2257 (43)
+    Name: stLabels2257
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolyline
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 2260
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3639286210701898E7
+        YMin: 4453777.121397398
+        XMax: -1.3593384519185137E7
+        YMax: 4539105.184711414
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSLSSolid
+                Color: [0, 0, 0, 0]
+                Width: 1 Label:
+            Description: Transparency: 0
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: true
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        FULL_NAME ( type: esriFieldTypeString , alias: FULL_NAME , length: 69 )
+        PREFIX ( type: esriFieldTypeString , alias: PREFIX , length: 6 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        TYPE ( type: esriFieldTypeString , alias: TYPE , length: 4 )
+        SUFFIX ( type: esriFieldTypeString , alias: SUFFIX , length: 6 )
+        STREET_ID ( type: esriFieldTypeOID , alias: STREET_ID )
+        STNA_ID ( type: esriFieldTypeInteger , alias: STNA_ID )
+        LENGTH ( type: esriFieldTypeDouble , alias: LENGTH )
+        FR_ADD_L ( type: esriFieldTypeInteger , alias: FR_ADD_L )
+        TO_ADD_L ( type: esriFieldTypeInteger , alias: TO_ADD_L )
+        FR_ADD_R ( type: esriFieldTypeInteger , alias: FR_ADD_R )
+        TO_ADD_R ( type: esriFieldTypeInteger , alias: TO_ADD_R )
+        ADD_100_LO ( type: esriFieldTypeInteger , alias: ADD_100_LO )
+        ADD_100_HI ( type: esriFieldTypeInteger , alias: ADD_100_HI )
+        CITY_L ( type: esriFieldTypeString , alias: CITY_L , length: 10 )
+        CITY_R ( type: esriFieldTypeString , alias: CITY_R , length: 10 )
+        ZIP_L ( type: esriFieldTypeInteger , alias: ZIP_L )
+        ZIP_R ( type: esriFieldTypeInteger , alias: ZIP_R )
+        ERROR_FLAG ( type: esriFieldTypeInteger , alias: ERROR_FLAG )
+        TW_FLAG ( type: esriFieldTypeInteger , alias: TW_FLAG )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMEN ( type: esriFieldTypeString , alias: SRC_COMMEN , length: 50 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        OFFSET ( type: esriFieldTypeString , alias: OFFSET , length: 1 )
+        STCONO ( type: esriFieldTypeString , alias: STCONO , length: 10 )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        RD_NO ( type: esriFieldTypeString , alias: RD_NO , length: 5 )
+        CNTY_MAINTAINED ( type: esriFieldTypeString , alias: CNTY_MAINTAINED , length: 1 )
+        STNALIST_STNA_ID ( type: esriFieldTypeInteger , alias: STNALIST_STNA_ID )
+        ATOMIC_L ( type: esriFieldTypeString , alias: ATOMIC_L , length: 25 )
+        ATOMIC_R ( type: esriFieldTypeString , alias: ATOMIC_R , length: 25 )
+        PBEAT_L ( type: esriFieldTypeString , alias: PBEAT_L , length: 25 )
+        PBEAT_R ( type: esriFieldTypeString , alias: PBEAT_R , length: 25 )
+        EMSZONE_L ( type: esriFieldTypeString , alias: EMSZONE_L , length: 25 )
+        EMSZONE_R ( type: esriFieldTypeString , alias: EMSZONE_R , length: 25 )
+        PAGENCY_L ( type: esriFieldTypeString , alias: PAGENCY_L , length: 25 )
+        PAGENCY_R ( type: esriFieldTypeString , alias: PAGENCY_R , length: 25 )
+        EMSAREA_L ( type: esriFieldTypeString , alias: EMSAREA_L , length: 25 )
+        EMSAREA_R ( type: esriFieldTypeString , alias: EMSAREA_R , length: 25 )
+        FIREZONE_L ( type: esriFieldTypeString , alias: FIREZONE_L , length: 25 )
+        FIREZONE_R ( type: esriFieldTypeString , alias: FIREZONE_R , length: 25 )
+        FIREMAP_L ( type: esriFieldTypeString , alias: FIREMAP_L , length: 25 )
+        FIREMAP_R ( type: esriFieldTypeString , alias: FIREMAP_R , length: 25 )
+        TBMPAGE_L ( type: esriFieldTypeString , alias: TBMPAGE_L , length: 25 )
+        TBMPAGE_R ( type: esriFieldTypeString , alias: TBMPAGE_R , length: 25 )
+        THAZARD_L ( type: esriFieldTypeString , alias: THAZARD_L , length: 25 )
+        THAZARD_R ( type: esriFieldTypeString , alias: THAZARD_R , length: 25 )
+        ROUTE_ID ( type: esriFieldTypeString , alias: ROUTE_ID , length: 50 )
+        LOW_MEASURE ( type: esriFieldTypeDouble , alias: LOW_MEASURE )
+        HI_MEASURE ( type: esriFieldTypeDouble , alias: HI_MEASURE )
+        LRS_REVERSE ( type: esriFieldTypeInteger , alias: LRS_REVERSE )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+
+    Layer: cities361122 (44)
+    Name: cities361122
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolygon
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 36120
+
+    Max Scale: 36111.909643
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3639392596275987E7
+        YMin: 4453489.268367867
+        XMax: -1.3592825151396899E7
+        YMax: 4539096.4480449185
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSFSSolid
+                Color: [0, 0, 0, 0]
+                Outline:
+                    Style: esriSLSSolid
+                    Color: [0, 0, 0, 0]
+                    Width: 0 Label:
+            Description: Transparency: 0
+        Labeling Info:
+            Label Placement: esriServerPolygonPlacementAlwaysHorizontal
+            Label Expression: [NAME]
+            Use Coded Values: true
+            Symbol:
+                Color: [178, 178, 178, 255]
+                Background Color: N/A
+                Outline Color: N/A
+                Vertical Alignment: baseline
+                Horizontal Alignment: left
+                Right to Left: false
+                Angle: 0
+                XOffset: 0
+                YOffset: 0
+                Size: 20
+                Font Family: Arial
+                Font Style: normal
+                Font Weight: normal
+                Font Decoration: none
+            Min. Scale: 0.0
+            Max. Scale: 0.0
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        CITY_BDRY_ID ( type: esriFieldTypeOID , alias: CITY_BDRY_ID )
+        AREA ( type: esriFieldTypeDouble , alias: AREA )
+        PERIMETER ( type: esriFieldTypeDouble , alias: PERIMETER )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMENT ( type: esriFieldTypeString , alias: SRC_COMMENT , length: 50 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        UNINCORPORATED ( type: esriFieldTypeSmallInteger , alias: UNINCORPORATED )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        ABBR ( type: esriFieldTypeString , alias: ABBR , length: 3 )
+        HANSEN_AREA ( type: esriFieldTypeString , alias: HANSEN_AREA , length: 50 )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+        GEOMETRY_Area ( type: esriFieldTypeDouble , alias: GEOMETRY_Area )
+
+    Layer: schools36112 (45)
+    Name: schools36112
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolygon
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: true
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.363821044096365E7
+        YMin: 4473273.206244919
+        XMax: -1.359452734808202E7
+        YMax: 4538979.199975109
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSFSSolid
+                Color: [0, 0, 0, 0]
+                Outline:
+                    Style: esriSLSSolid
+                    Color: [0, 0, 0, 0]
+                    Width: 0 Label:
+            Description: Transparency: 50
+        Labeling Info:
+            Label Placement: esriServerPolygonPlacementAlwaysHorizontal
+            Label Expression: [NAME]
+            Use Coded Values: true
+            Symbol:
+                Color: [168, 168, 0, 255]
+                Background Color: N/A
+                Outline Color: N/A
+                Vertical Alignment: baseline
+                Horizontal Alignment: left
+                Right to Left: false
+                Angle: 0
+                XOffset: 0
+                YOffset: 0
+                Size: 8
+                Font Family: Arial
+                Font Style: italic
+                Font Weight: normal
+                Font Decoration: none
+            Min. Scale: 36111.909643
+            Max. Scale: 0.0
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        ID ( type: esriFieldTypeOID , alias: ID )
+        LDMK_TYPE ( type: esriFieldTypeString , alias: LDMK_TYPE , length: 9 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 60 )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        CATEGORY ( type: esriFieldTypeString , alias: CATEGORY , length: 30 )
+        ADDRESS ( type: esriFieldTypeString , alias: ADDRESS , length: 255 )
+        ZIP_CODE ( type: esriFieldTypeString , alias: ZIP_CODE , length: 5 )
+        COMMENTS ( type: esriFieldTypeString , alias: COMMENTS , length: 255 )
+        CITY ( type: esriFieldTypeString , alias: CITY , length: 50 )
+        LDMK_LINK ( type: esriFieldTypeString , alias: LDMK_LINK , length: 255 )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+        GEOMETRY_Area ( type: esriFieldTypeDouble , alias: GEOMETRY_Area )
+
+    Layer: APN_countyFeet (46)
+    Name: APN_countyFeet
+
+    Display Field: APAGE
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolygon
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 9029
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3672792811759634E7
+        YMin: 4412235.632072134
+        XMax: -1.3428426936657596E7
+        YMax: 4833510.611268395
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSFSSolid
+                Color: [0, 0, 0, 0]
+                Outline:
+                    Style: esriSLSSolid
+                    Color: [104, 104, 104, 255]
+                    Width: 0 Label:
+            Description: Transparency: 0
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        APAGE ( type: esriFieldTypeString , alias: APAGE , length: 2 )
+        APN ( type: esriFieldTypeString , alias: APN , length: 9 )
+        APN_FLAG ( type: esriFieldTypeString , alias: APN_FLAG , length: 1 )
+        BLOCK ( type: esriFieldTypeString , alias: BLOCK , length: 1 )
+        BOOK ( type: esriFieldTypeString , alias: BOOK , length: 3 )
+        LOT ( type: esriFieldTypeString , alias: LOT , length: 3 )
+        SBE_NO ( type: esriFieldTypeString , alias: SBE_NO , length: 16 )
+        SUBLOT ( type: esriFieldTypeString , alias: SUBLOT , length: 1 )
+        GIS_ADMIN.ACTIVE_PARCELS_APN.AREA ( type: esriFieldTypeDouble , alias: AREA )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        PARCEL_ID ( type: esriFieldTypeInteger , alias: PARCEL_ID )
+        PERIMETER ( type: esriFieldTypeDouble , alias: PERIMETER )
+        RETIRE_DATE ( type: esriFieldTypeDate , alias: RETIRE_DATE , length: 36 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMENT ( type: esriFieldTypeString , alias: SRC_COMMENT , length: 50 )
+        SRC_CRTL_SCALE ( type: esriFieldTypeString , alias: SRC_CRTL_SCALE , length: 5 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_FINL_SCALE ( type: esriFieldTypeString , alias: SRC_FINL_SCALE , length: 5 )
+        TRACT_ID ( type: esriFieldTypeDouble , alias: TRACT_ID )
+        TRANSFER ( type: esriFieldTypeString , alias: TRANSFER , length: 1 )
+        PROPERTY_REVIEW ( type: esriFieldTypeString , alias: PROPERTY_REVIEW , length: 112 )
+        GEOMEDIA_ID ( type: esriFieldTypeOID , alias: GEOMEDIA_ID )
+        GEOMETRY.AREA ( type: esriFieldTypeDouble , alias: GEOMETRY.AREA )
+        GEOMETRY.LEN ( type: esriFieldTypeDouble , alias: GEOMETRY.LEN )
+
+    Layer: Export_Output_78 (47)
+    Name: Export_Output_78
+
+    Display Field: OWNER
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolyline
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 9030
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3637645776823586E7
+        YMin: 4472955.623316202
+        XMax: -1.3594750271302674E7
+        YMax: 4539051.117069265
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSLSSolid
+                Color: [255, 255, 255, 255]
+                Width: 1 Label:
+            Description: Transparency: 0
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        LENGTH ( type: esriFieldTypeDouble , alias: LENGTH )
+        OWNER ( type: esriFieldTypeString , alias: OWNER , length: 6 )
+        OWNER_LABEL ( type: esriFieldTypeString , alias: OWNER_LABEL , length: 41 )
+        RD_TYPE ( type: esriFieldTypeDouble , alias: RD_TYPE )
+        RD_LABEL ( type: esriFieldTypeString , alias: RD_LABEL , length: 30 )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        ROWLIN_ID ( type: esriFieldTypeDouble , alias: ROWLIN_ID )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        STREET_ID ( type: esriFieldTypeDouble , alias: STREET_ID )
+        ID ( type: esriFieldTypeOID , alias: ID )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+
+    Layer: newParks (48)
+    Name: newParks
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolygon
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3639344364001233E7
+        YMin: 4453650.444983847
+        XMax: -1.3592901315896008E7
+        YMax: 4539014.652193949
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSFSSolid
+                Color: [199, 215, 158, 255]
+                Outline:
+                    Style: esriSLSSolid
+                    Color: [205, 205, 102, 255]
+                    Width: 0 Label:
+            Description: Transparency: 65
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        OBJECTID ( type: esriFieldTypeOID , alias: OBJECTID )
+        Shape ( type: esriFieldTypeGeometry , alias: Shape )
+        ID ( type: esriFieldTypeDouble , alias: ID )
+        LDMK_TYPE ( type: esriFieldTypeString , alias: LDMK_TYPE , length: 9 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 60 )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        CATEGORY ( type: esriFieldTypeString , alias: CATEGORY , length: 30 )
+        ADDRESS ( type: esriFieldTypeString , alias: ADDRESS , length: 255 )
+        ZIP_CODE ( type: esriFieldTypeString , alias: ZIP_CODE , length: 5 )
+        COMMENTS ( type: esriFieldTypeString , alias: COMMENTS , length: 255 )
+        CITY ( type: esriFieldTypeString , alias: CITY , length: 50 )
+        LDMK_LINK ( type: esriFieldTypeString , alias: LDMK_LINK , length: 255 )
+        Shape_Length ( type: esriFieldTypeDouble , alias: Shape_Length )
+        Shape_Area ( type: esriFieldTypeDouble , alias: Shape_Area )
+
+    Layer: parks1 (49)
+    Name: parks1
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolygon
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3639339800483048E7
+        YMin: 4453651.974175302
+        XMax: -1.3592896689065583E7
+        YMax: 4539016.346021957
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSFSSolid
+                Color: [0, 0, 0, 0]
+                Outline:
+                    Style: esriSLSSolid
+                    Color: [0, 0, 0, 0]
+                    Width: 0 Label:
+            Description: Transparency: 0
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        ID ( type: esriFieldTypeInteger , alias: ID )
+        LDMK_TYPE ( type: esriFieldTypeString , alias: LDMK_TYPE , length: 9 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 60 )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        CATEGORY ( type: esriFieldTypeString , alias: CATEGORY , length: 30 )
+        ADDRESS ( type: esriFieldTypeString , alias: ADDRESS , length: 254 )
+        ZIP_CODE ( type: esriFieldTypeString , alias: ZIP_CODE , length: 5 )
+        COMMENTS ( type: esriFieldTypeString , alias: COMMENTS , length: 254 )
+        CITY ( type: esriFieldTypeString , alias: CITY , length: 50 )
+        LDMK_LINK ( type: esriFieldTypeString , alias: LDMK_LINK , length: 254 )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        ID1 ( type: esriFieldTypeOID , alias: ID1 )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+        GEOMETRY_Area ( type: esriFieldTypeDouble , alias: GEOMETRY_Area )
+
+    Layer: parks2 (50)
+    Name: parks2
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolygon
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: false
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3638843788925152E7
+        YMin: 4466076.029312874
+        XMax: -1.3612993044665782E7
+        YMax: 4537743.77476433
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSFSSolid
+                Color: [201, 219, 163, 255]
+                Outline:
+                    Style: esriSLSSolid
+                    Color: [205, 205, 102, 255]
+                    Width: 1 Label:
+            Description: Transparency: 0
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        ID ( type: esriFieldTypeOID , alias: ID )
+        LDMK_TYPE ( type: esriFieldTypeString , alias: LDMK_TYPE , length: 9 )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 60 )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        CATEGORY ( type: esriFieldTypeString , alias: CATEGORY , length: 30 )
+        ADDRESS ( type: esriFieldTypeString , alias: ADDRESS , length: 255 )
+        ZIP_CODE ( type: esriFieldTypeString , alias: ZIP_CODE , length: 5 )
+        COMMENTS ( type: esriFieldTypeString , alias: COMMENTS , length: 255 )
+        CITY ( type: esriFieldTypeString , alias: CITY , length: 50 )
+        LDMK_LINK ( type: esriFieldTypeString , alias: LDMK_LINK , length: 255 )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+        GEOMETRY_Area ( type: esriFieldTypeDouble , alias: GEOMETRY_Area )
+
+    Layer: citiBKGRND (51)
+    Name: citiBKGRND
+
+    Display Field: NAME
+
+    Type: Feature Layer
+
+    Geometry Type: esriGeometryPolygon
+
+    Description:
+
+    Definition Expression: N/A
+
+    Copyright Text:
+
+    Default Visibility: true
+
+    MaxRecordCount: 1000
+
+    Supported Query Formats: JSON, AMF
+
+    Min Scale: 0
+
+    Max Scale: 0
+
+    Supports Advanced Queries: true
+
+    Supports Statistics: true
+
+    Has Labels: false
+
+    Can Modify Layer: false
+
+    Can Scale Symbols: false
+
+    Use Standardized Queries: true
+
+    Extent:
+        XMin: -1.3639392596275987E7
+        YMin: 4453489.268367867
+        XMax: -1.3588992342608385E7
+        YMax: 4539162.883028212
+        Spatial Reference: 102100  (3857)
+
+
+    Drawing Info:
+        Renderer:
+            Simple Renderer:
+            Symbol:
+                Style: esriSFSSolid
+                Color: [255, 255, 255, 255]
+                Outline:
+                    Style: esriSLSSolid
+                    Color: [0, 0, 0, 0]
+                    Width: 0 Label:
+            Description: Transparency: 30
+        Labeling Info:
+
+    HasZ: false
+
+    HasM: false
+
+    Has Attachments: false
+
+    HTML Popup Type: esriServerHTMLPopupTypeAsHTMLText
+
+    Type ID Field: null
+
+    Fields:
+        CITY_BDRY_ID ( type: esriFieldTypeOID , alias: CITY_BDRY_ID )
+        AREA ( type: esriFieldTypeDouble , alias: AREA )
+        PERIMETER ( type: esriFieldTypeDouble , alias: PERIMETER )
+        NAME ( type: esriFieldTypeString , alias: NAME , length: 50 )
+        SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+        SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+        SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+        SRC_COMMENT ( type: esriFieldTypeString , alias: SRC_COMMENT , length: 50 )
+        SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+        REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+        UNINCORPORATED ( type: esriFieldTypeSmallInteger , alias: UNINCORPORATED )
+        GEOMETRY ( type: esriFieldTypeGeometry , alias: GEOMETRY )
+        ABBR ( type: esriFieldTypeString , alias: ABBR , length: 3 )
+        HANSEN_AREA ( type: esriFieldTypeString , alias: HANSEN_AREA , length: 50 )
+        GEOMETRY_Length ( type: esriFieldTypeDouble , alias: GEOMETRY_Length )
+        GEOMETRY_Area ( type: esriFieldTypeDouble , alias: GEOMETRY_Area )
+
+
+
+
+

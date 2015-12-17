@@ -1,0 +1,13 @@
+Layer: FIRE_STATIONS (16)
+Fields:
+  OBJECTID ( type: esriFieldTypeOID , alias: OBJECTID )
+  Shape ( type: esriFieldTypeGeometry , alias: Shape )
+  LDMK_TYPE ( type: esriFieldTypeString , alias: LDMK_TYPE , length: 11 )
+  NAME ( type: esriFieldTypeString , alias: NAME , length: 60 )
+  SRC_DOC ( type: esriFieldTypeString , alias: SRC_DOC , length: 30 )
+  SRC_DATE ( type: esriFieldTypeString , alias: SRC_DATE , length: 10 )
+  SRC_SCALE ( type: esriFieldTypeString , alias: SRC_SCALE , length: 5 )
+  SRC_AGENCY ( type: esriFieldTypeString , alias: SRC_AGENCY , length: 6 )
+  SRC_COMMEN ( type: esriFieldTypeString , alias: SRC_COMMEN , length: 50 )
+  REV_DATE ( type: esriFieldTypeString , alias: REV_DATE , length: 10 )
+  GEOMETRY_S ( type: esriFieldTypeString , alias: GEOMETRY_S , length: 15 )
